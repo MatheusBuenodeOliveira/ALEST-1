@@ -85,7 +85,14 @@ public class ListaDeOcorrencias {
      * @throws IndexOutOfBoundsException se (index < 0 || index >= size())
      */    
     public Integer get(int index) {
-        return 0;
+        if ((index < 0) || (index >= size())) {
+            throw new IndexOutOfBoundsException();
+        }
+        Node current = head;
+        for (int i = 0; i < index; i++) {
+            current = current.next;
+        }
+        return current.numeroDaPagina;
     }
  
         /**
