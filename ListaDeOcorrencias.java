@@ -59,10 +59,24 @@ public class ListaDeOcorrencias {
      * recebido por parametro, e false caso contrario.
      */
     public boolean add(int numPagina)  {
+        Node node = new Node(numPagina);
         
-        
+        if (contains(numPagina)) {
             return false;
         }
+
+        if (isEmpty()) {
+            head = node;
+            tail = node;
+            count++;
+            return true;
+        }
+
+        tail.next = node;
+        tail = node;
+        count++;
+        return true;
+    }
             
     /**
      * Retorna o elemento de uma determinada posicao da lista.
