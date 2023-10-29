@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         
     int nLinha = 0;
-    int nPagina = 0;
+    int nPagina = 1;
     
     ListaOrdenadaDePalavras listaOrdenada = new ListaOrdenadaDePalavras();
     
@@ -57,7 +57,13 @@ public class Main {
         
 
     } while (true);
-    listaOrdenada.print();
+    
+    
+    try {
+        listaOrdenada.print();
+    } catch (Exception e) {
+        System.out.println("Erro de path de arquivo");
+    }
     arquivo.close();        
     }
 }

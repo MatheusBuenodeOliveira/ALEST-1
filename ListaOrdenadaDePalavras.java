@@ -1,3 +1,7 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 import org.w3c.dom.Node;
 
 /**
@@ -82,6 +86,7 @@ public class ListaOrdenadaDePalavras {
 
 
 public void addOcorrencia(String palavra, int numPag) {
+    if(palavra != "" && palavra != null && palavra!=" " ){
     if(!containsElement(palavra)){
         addpalavraord(palavra);
     }
@@ -93,14 +98,18 @@ public void addOcorrencia(String palavra, int numPag) {
         aux = aux.next;
     }
 }
+}
     // atuliza print para printar as ocorrencias
-    public void print(){
+    public void print() throws IOException{
         Palavra aux = head;
+        BufferedWriter saida = new BufferedWriter(new FileWriter("output.txt"));
         while(aux != null){
-            System.out.println(aux.s);
+            saida.write(aux.s+": numero de correncias ocorrencias");
+            saida.newLine();
             for (int i = 0; i < aux.listaOcorrencias.size(); i++) {
-                System.out.println(aux.listaOcorrencias.get(i));
+             saida.write(aux.listaOcorrencias.get(i)+"->");
             }
+            saida.newLine();
             aux = aux.next;
         }
     }
