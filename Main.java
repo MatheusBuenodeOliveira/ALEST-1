@@ -48,7 +48,7 @@ public class Main {
             
             if (!lista.contains(palavra)) // verifica se a palavra esta na lista de stopwords
             {
-                listaOrdenada.addpalavraord(palavra);
+                listaOrdenada.addOcorrencia(palavra, nPagina); // adiciona a palavra na lista ordenada
             }
            
          

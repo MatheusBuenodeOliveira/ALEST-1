@@ -79,10 +79,28 @@ public class ListaOrdenadaDePalavras {
         }
     }
 }
+
+
+public void addOcorrencia(String palavra, int numPag) {
+    if(!containsElement(palavra)){
+        addpalavraord(palavra);
+    }
+    Palavra aux = head;
+    while(aux != null){
+        if(aux.s.equals(palavra)){
+            aux.listaOcorrencias.add(numPag);
+        }
+        aux = aux.next;
+    }
+}
+
     public void print(){
         Palavra aux = head;
         while(aux != null){
             System.out.println(aux.s);
+            for (int i = 0; i < aux.listaOcorrencias.size(); i++) {
+                System.out.println(aux.listaOcorrencias.get(i));
+            }
             aux = aux.next;
         }
     }
