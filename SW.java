@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class SW{
     public static LinkedListOfString stopWords(){
-        String filePath = "StopWords-EN.txt";
+        String filePath = "C:\\.dev\\trab\\ALEST-1\\StopWords-EN.txt";
         LinkedListOfString stopWords = new LinkedListOfString();
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String word;

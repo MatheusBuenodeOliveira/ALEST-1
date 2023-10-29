@@ -9,12 +9,19 @@ public class Main {
         
     int nLinha = 0;
     int nPagina = 0;
+    
+    ListaOrdenadaDePalavras listaOrdenada = new ListaOrdenadaDePalavras();
+    
     LinkedListOfString lista =  SW.stopWords(); // lista com as stopwords
+    
     ArquivoTexto arquivo = new ArquivoTexto(); // objeto que gerencia o arquivo
+    
     LinhaTexto linha = new LinhaTexto(); // objeto que gerencia uma linha
+    
     String l;
 
-    arquivo.open("ArquivoExemplo.txt");
+
+    arquivo.open();
     
     do  // laco que passa em cada linha do arquivo
     {
@@ -39,19 +46,18 @@ public class Main {
             }
             
             
-            if (lista.contains(palavra)) // verifica se a palavra esta na lista de stopwords
+            if (!lista.contains(palavra)) // verifica se a palavra esta na lista de stopwords
             {
-                System.out.println("Stopword ="+"|" + palavra + "|");
-            }else{
-                System.out.println("|" + palavra + "|");
+                listaOrdenada.addpalavraord(palavra);
             }
+           
          
          } while (true);
 
         
 
     } while (true);
-    
+    listaOrdenada.print();
     arquivo.close();        
     }
 }
