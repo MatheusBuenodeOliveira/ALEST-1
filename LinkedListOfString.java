@@ -186,11 +186,6 @@ public class LinkedListOfString {
         return s.toString();
     }    
     
-    public boolean contais(){
-        
-        
-        return false;
-    }
     public boolean contains(String element) {
         Node current = header.next;
         while (current != trailer) {
