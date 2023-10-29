@@ -93,7 +93,7 @@ public void addOcorrencia(String palavra, int numPag) {
         aux = aux.next;
     }
 }
-
+    // atuliza print para printar as ocorrencias
     public void print(){
         Palavra aux = head;
         while(aux != null){
