@@ -86,7 +86,8 @@ public class Aplicacao {
             System.out.println("2. Exibir o percentual de stopwords do texto;");
             System.out.println("3. Encontrar a palavra mais frequente;");
             System.out.println("4. Pesquisar palavras;");
-            System.out.println("5. Encerrar o programa.");
+            System.out.println("5. Exibir pagina com maior número de palavras indexadas.");
+            System.out.println("6. Encerrar o programa.");
             System.out.print("Escolha uma opção: ");
 
             int escolha = scanner.nextInt();
@@ -106,6 +107,9 @@ public class Aplicacao {
                     pesquisarPalavras();
                     break;
                 case 5:
+                    System.out.println("Pagina com maior número de palavras indexadas: "+paginamax+" com "+countindex+" palavras.");
+                    break;
+                case 6:
                     System.out.println("Programa encerrado.");
                     continuar = false;
                     break;
