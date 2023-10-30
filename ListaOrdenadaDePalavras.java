@@ -102,19 +102,32 @@ public void addOcorrencia(String palavra, int numPag) {
 }
     
     // atuliza print para printar as ocorrencias
-    public void print() throws IOException{
+    public void print() throws IOException {
         Palavra aux = head;
         BufferedWriter saida = new BufferedWriter(new FileWriter("output.txt"));
-        while(aux != null){
-            saida.write(aux.s+": numero de ocorrencias");
-            saida.newLine();
+    
+        while (aux != null) {
+            StringBuilder sb = new StringBuilder();
+            sb.append(aux.s).append(": ");
+    
             for (int i = 0; i < aux.listaOcorrencias.size(); i++) {
-             saida.write(aux.listaOcorrencias.get(i)+"->");
+                sb.append(aux.listaOcorrencias.get(i));
+                if (i < aux.listaOcorrencias.size() - 1) {
+                    sb.append(", ");  // Separando por vírgulas
+                }
             }
+    
+            String linha = sb.toString();
+            saida.write(linha);
             saida.newLine();
+            System.out.println(linha);  // printa no console
+    
             aux = aux.next;
         }
+    
+        saida.close();
     }
+    
 
     private boolean containsElement(String element) {
         
@@ -132,15 +145,34 @@ public void addOcorrencia(String palavra, int numPag) {
         return false;
     }    
 
-    public void ocorrenciasPalavra(String palavra){
+    public void ocorrenciasPalavra(String palavra) {
         Palavra aux = head;
-        while(aux != null){
-            if(aux.s.equals(palavra)){
-                aux.listaOcorrencias.toString();
+        boolean encontrou = false;
+    
+        while (aux != null) {
+            if (aux.s.equals(palavra)) {
+                encontrou = true;
+                
+                StringBuilder sb = new StringBuilder();
+                sb.append(palavra).append(": ");
+                
+                for (int i = 0; i < aux.listaOcorrencias.size(); i++) {
+                    sb.append(aux.listaOcorrencias.get(i));
+                    if (i < aux.listaOcorrencias.size() - 1) {
+                        sb.append(", ");
+                    }
+                }
+                System.out.println(sb.toString());
+                break;
             }
             aux = aux.next;
         }
+    
+        if (!encontrou) {
+            System.out.println("Palavra '" + palavra + "' não encontrada.");
+        }
     }
+    
 
     public void maiorOcorrencia(){
         Palavra aux = head;
@@ -166,6 +198,3 @@ public void addOcorrencia(String palavra, int numPag) {
     // Atributos
     
     // Metodos
-
-
-
