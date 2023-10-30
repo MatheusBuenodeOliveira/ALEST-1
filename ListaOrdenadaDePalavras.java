@@ -142,6 +142,25 @@ public void addOcorrencia(String palavra, int numPag) {
         }
     }
 
+    public void maiorOcorrencia(){
+        Palavra aux = head;
+        int maior = 0;
+        while(aux != null){
+            if(aux.listaOcorrencias.size() > maior){
+                maior = aux.listaOcorrencias.size();
+            }
+            aux = aux.next;
+        }
+        
+        aux = head;
+        while(aux != null){
+            if(aux.listaOcorrencias.size() == maior){
+                System.out.println(aux.s);
+            }
+            aux = aux.next;
+        }
+    }
+
 }
     
     // Atributos
