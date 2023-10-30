@@ -43,8 +43,8 @@ public class ListaOrdenadaDePalavras {
 
     
     // Metodos
-
-    public void addpalavraord(String palavra) {
+    //esse eh privado pq so chama aqui dentro
+    private void addpalavraord(String palavra) {
         if(count ==0){
             Palavra novaPalavra = new Palavra(palavra);
             head = novaPalavra;
@@ -79,32 +79,34 @@ public class ListaOrdenadaDePalavras {
                 }
                 aux = aux.next;
                 ant=ant.next;
+                
             }
         }
     }
 }
 
-
+//esse eh o q armazena 
 public void addOcorrencia(String palavra, int numPag) {
-    if(palavra != "" && palavra != null && palavra!=" " ){
-    if(!containsElement(palavra)){
-        addpalavraord(palavra);
-    }
-    Palavra aux = head;
-    while(aux != null){
-        if(aux.s.equals(palavra)){
-            aux.listaOcorrencias.add(numPag);
+    if (palavra != null && !palavra.trim().isEmpty()) {
+        if (!containsElement(palavra)) {
+            addpalavraord(palavra); 
         }
-        aux = aux.next;
+        Palavra aux = head;
+        while (aux != null) {
+            if (aux.s.equals(palavra)) {
+                aux.listaOcorrencias.add(numPag);
+            }
+            aux = aux.next;
+        }
     }
 }
-}
+
     // atuliza print para printar as ocorrencias
     public void print() throws IOException{
         Palavra aux = head;
         BufferedWriter saida = new BufferedWriter(new FileWriter("output.txt"));
         while(aux != null){
-            saida.write(aux.s+": numero de correncias ocorrencias");
+            saida.write(aux.s+": numero de ocorrencias");
             saida.newLine();
             for (int i = 0; i < aux.listaOcorrencias.size(); i++) {
              saida.write(aux.listaOcorrencias.get(i)+"->");

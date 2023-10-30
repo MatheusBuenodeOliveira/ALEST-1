@@ -29,6 +29,7 @@ public class LinhaTexto {
          linha = linha.replaceAll("\\_","");
          linha = linha.replaceAll("\\*","");
          linha = linha.replaceAll("\"","");
+         linha =linha.trim();
          
         linha = linha.toLowerCase(); 
         
