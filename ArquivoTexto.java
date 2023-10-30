@@ -17,7 +17,7 @@ public class ArquivoTexto {
     * Abre o arquivo que contém o texto
     */
     public void open(){
-        Path path1 = Paths.get("C:\\.dev\\trab\\ALEST-1\\alice.txt");
+        Path path1 = Paths.get("alice.txt");
         try {
            reader = Files.newBufferedReader(path1, Charset.defaultCharset());
         } catch (IOException e) {
