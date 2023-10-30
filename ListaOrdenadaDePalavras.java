@@ -2,7 +2,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import org.w3c.dom.Node;
+
 
 /**
  * Esta classe guarda as palavra do indice remissivo em ordem alfabetica.
@@ -85,7 +85,7 @@ public class ListaOrdenadaDePalavras {
     }
 }
 
-//esse eh o q armazena 
+//esse eh o q armazena as ocorrencias
 public void addOcorrencia(String palavra, int numPag) {
     if (palavra != null && !palavra.trim().isEmpty()) {
         if (!containsElement(palavra)) {
@@ -100,7 +100,7 @@ public void addOcorrencia(String palavra, int numPag) {
         }
     }
 }
-
+    
     // atuliza print para printar as ocorrencias
     public void print() throws IOException{
         Palavra aux = head;
@@ -131,10 +131,22 @@ public void addOcorrencia(String palavra, int numPag) {
         
         return false;
     }    
+
+    public void ocorrenciasPalavra(String palavra){
+        Palavra aux = head;
+        while(aux != null){
+            if(aux.s.equals(palavra)){
+                aux.listaOcorrencias.toString();
+            }
+            aux = aux.next;
+        }
+    }
+
 }
     
     // Atributos
     
     // Metodos
+
 
 

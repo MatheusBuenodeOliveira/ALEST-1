@@ -1,0 +1,4635 @@
+30: numero de ocorrencias
+1->
+abide: numero de ocorrencias
+35->
+able: numero de ocorrencias
+6->
+absence: numero de ocorrencias
+58->
+absurd: numero de ocorrencias
+14->36->
+acceptance: numero de ocorrencias
+14->
+accident: numero de ocorrencias
+77->78->
+accidentally: numero de ocorrencias
+77->
+account: numero de ocorrencias
+53->
+accounting: numero de ocorrencias
+70->
+accounts: numero de ocorrencias
+42->
+accusation: numero de ocorrencias
+72->
+accustomed: numero de ocorrencias
+12->
+ache: numero de ocorrencias
+77->
+act: numero de ocorrencias
+52->
+actually: numero de ocorrencias
+1->
+ada: numero de ocorrencias
+8->
+added: numero de ocorrencias
+14->19->29->37->40->41->44->49->56->61->67->73->76->77->79->81->82->
+adding: numero de ocorrencias
+30->
+addressed: numero de ocorrencias
+24->34->
+addressing: numero de ocorrencias
+17->
+adjourn: numero de ocorrencias
+13->
+adoption: numero de ocorrencias
+13->
+advance: numero de ocorrencias
+64->65->
+advantage: numero de ocorrencias
+34->46->58->
+adventures: numero de ocorrencias
+1->67->83->
+adventuresbeginning: numero de ocorrencias
+67->
+advice: numero de ocorrencias
+5->24->
+advisable: numero de ocorrencias
+12->
+advise: numero de ocorrencias
+5->
+affair: numero de ocorrencias
+81->
+affectionately: numero de ocorrencias
+55->
+afford: numero de ocorrencias
+61->
+afore: numero de ocorrencias
+49->
+afraid: numero de ocorrencias
+3->10->11->14->20->24->26->27->44->49->81->
+aftertime: numero de ocorrencias
+84->
+againbefore: numero de ocorrencias
+82->
+age: numero de ocorrencias
+8->12->26->71->
+ago: numero de ocorrencias
+10->84->
+agony: numero de ocorrencias
+34->
+agree: numero de ocorrencias
+57->
+ah: numero de ocorrencias
+8->16->42->56->61->
+ahem: numero de ocorrencias
+12->
+aim: numero de ocorrencias
+30->
+air: numero de ocorrencias
+3->12->20->21->23->33->36->52->64->76->77->83->84->
+airs: numero de ocorrencias
+27->
+alarm: numero de ocorrencias
+29->36->
+alarmed: numero de ocorrencias
+44->
+alas: numero de ocorrencias
+4->5->9->19->
+alice: numero de ocorrencias
+1->2->3->4->5->6->7->8->9->10->11->12->13->14->15->16->17->18->19->20->21->22->23->24->25->26->27->28->29->30->31->32->33->34->35->36->37->38->39->40->41->42->43->44->45->46->47->48->49->50->51->52->53->54->55->56->57->58->59->60->61->62->63->64->65->66->67->68->69->70->71->72->73->74->75->76->77->78->79->80->81->82->83->
+aliceand: numero de ocorrencias
+63->
+alices: numero de ocorrencias
+1->3->7->20->44->55->56->58->77->
+alive: numero de ocorrencias
+52->53->83->
+allow: numero de ocorrencias
+11->26->53->
+alongcatch: numero de ocorrencias
+21->
+aloud: numero de ocorrencias
+2->17->28->32->40->
+altered: numero de ocorrencias
+27->
+alternately: numero de ocorrencias
+33->
+altogether: numero de ocorrencias
+5->9->19->36->
+ancient: numero de ocorrencias
+62->
+andoh: numero de ocorrencias
+8->11->
+anger: numero de ocorrencias
+25->83->
+angrily: numero de ocorrencias
+16->20->27->40->41->45->50->61->74->
+angry: numero de ocorrencias
+10->18->20->38->
+animal: numero de ocorrencias
+21->
+animals: numero de ocorrencias
+10->11->22->71->
+ann: numero de ocorrencias
+18->20->
+annoy: numero de ocorrencias
+35->
+annoyed: numero de ocorrencias
+30->
+answer: numero de ocorrencias
+3->11->13->32->40->42->46->66->73->
+answered: numero de ocorrencias
+19->27->60->70->
+answers: numero de ocorrencias
+42->
+antipathies: numero de ocorrencias
+2->
+anxious: numero de ocorrencias
+55->57->76->
+anxiously: numero de ocorrencias
+6->12->16->17->22->35->36->49->51->61->72->75->76->
+apiece: numero de ocorrencias
+14->
+appealed: numero de ocorrencias
+54->
+appear: numero de ocorrencias
+38->57->
+appearance: numero de ocorrencias
+52->
+appeared: numero de ocorrencias
+22->23->38->53->54->57->
+appearing: numero de ocorrencias
+39->
+applause: numero de ocorrencias
+75->
+apples: numero de ocorrencias
+20->
+arch: numero de ocorrencias
+53->
+archbishop: numero de ocorrencias
+12->
+arches: numero de ocorrencias
+52->54->59->
+argue: numero de ocorrencias
+33->
+argued: numero de ocorrencias
+26->
+argument: numero de ocorrencias
+11->55->
+arguments: numero de ocorrencias
+54->
+arithmeticambition: numero de ocorrencias
+62->
+arm: numero de ocorrencias
+19->20->32->50->52->54->55->57->58->
+armchair: numero de ocorrencias
+39->
+arminarm: numero de ocorrencias
+73->
+arms: numero de ocorrencias
+24->25->28->36->58->76->
+arranged: numero de ocorrencias
+22->
+arrived: numero de ocorrencias
+71->
+arrow: numero de ocorrencias
+55->
+arrum: numero de ocorrencias
+20->
+ashamed: numero de ocorrencias
+7->61->
+ask: numero de ocorrencias
+3->7->17->38->44->47->55->62->72->
+askance: numero de ocorrencias
+65->
+asked: numero de ocorrencias
+13->27->28->33->43->44->45->51->58->60->61->67->75->79->80->
+asking: numero de ocorrencias
+3->13->40->42->61->
+asleep: numero de ocorrencias
+39->42->44->47->59->75->
+assembled: numero de ocorrencias
+11->71->
+ate: numero de ocorrencias
+6->
+atheling: numero de ocorrencias
+12->
+atom: numero de ocorrencias
+81->
+attempt: numero de ocorrencias
+20->
+attempted: numero de ocorrencias
+81->
+attempts: numero de ocorrencias
+75->
+attended: numero de ocorrencias
+57->
+attending: numero de ocorrencias
+16->29->32->
+attends: numero de ocorrencias
+53->
+audibly: numero de ocorrencias
+13->
+australia: numero de ocorrencias
+3->
+authority: numero de ocorrencias
+12->68->
+avoid: numero de ocorrencias
+9->
+away: numero de ocorrencias
+3->7->9->11->13->16->17->20->25->28->36->50->52->53->54->55->58->71->72->83->
+awfully: numero de ocorrencias
+27->
+axes: numero de ocorrencias
+34->
+axis: numero de ocorrencias
+34->
+baby: numero de ocorrencias
+33->34->35->36->38->84->
+babythe: numero de ocorrencias
+34->
+backs: numero de ocorrencias
+50->
+backsomersault: numero de ocorrencias
+26->
+bad: numero de ocorrencias
+9->12->
+bag: numero de ocorrencias
+75->
+baked: numero de ocorrencias
+68->
+balanced: numero de ocorrencias
+27->
+balls: numero de ocorrencias
+52->
+bank: numero de ocorrencias
+1->83->
+banks: numero de ocorrencias
+29->
+bankthe: numero de ocorrencias
+11->
+banquet: numero de ocorrencias
+69->
+bark: numero de ocorrencias
+23->
+barking: numero de ocorrencias
+23->
+barleysugar: numero de ocorrencias
+56->
+barrowful: numero de ocorrencias
+22->
+bat: numero de ocorrencias
+3->43->
+bathing: numero de ocorrencias
+9->
+bats: numero de ocorrencias
+3->
+bawled: numero de ocorrencias
+43->
+beak: numero de ocorrencias
+26->
+bear: numero de ocorrencias
+47->
+bearmind: numero de ocorrencias
+21->
+beast: numero de ocorrencias
+50->
+beasts: numero de ocorrencias
+4->71->
+beat: numero de ocorrencias
+35->42->83->
+beating: numero de ocorrencias
+29->42->
+beauootiful: numero de ocorrencias
+70->
+beautiful: numero de ocorrencias
+31->47->70->
+beautifully: numero de ocorrencias
+4->6->
+beautify: numero de ocorrencias
+62->
+bed: numero de ocorrencias
+17->
+beds: numero de ocorrencias
+4->
+bee: numero de ocorrencias
+26->
+beg: numero de ocorrencias
+10->11->12->14->16->72->77->
+began: numero de ocorrencias
+2->3->7->8->10->13->17->18->22->23->26->28->31->32->33->35->36->37->43->44->46->47->48->50->51->52->53->55->58->63->65->67->68->70->71->72->73->74->75->76->77->82->83->
+begged: numero de ocorrencias
+14->
+begin: numero de ocorrencias
+4->22->24->38->42->52->55->60->62->68->73->80->
+beginning: numero de ocorrencias
+1->25->27->30->36->39->44->45->58->70->73->78->80->
+begins: numero de ocorrencias
+46->47->69->74->
+begun: numero de ocorrencias
+3->4->40->48->70->71->74->
+behead: numero de ocorrencias
+76->
+beheaded: numero de ocorrencias
+48->50->55->
+beheading: numero de ocorrencias
+52->
+believe: numero de ocorrencias
+13->23->30->40->61->66->81->
+believed: numero de ocorrencias
+84->
+belong: numero de ocorrencias
+3->
+belongs: numero de ocorrencias
+11->55->
+beloved: numero de ocorrencias
+65->
+belt: numero de ocorrencias
+68->
+bend: numero de ocorrencias
+16->29->
+bent: numero de ocorrencias
+13->
+beor: numero de ocorrencias
+57->
+best: numero de ocorrencias
+5->6->13->17->22->41->49->61->78->81->
+better: numero de ocorrencias
+11->18->21->22->41->42->45->47->48->55->56->57->69->76->
+bills: numero de ocorrencias
+21->
+bird: numero de ocorrencias
+17->57->
+birds: numero de ocorrencias
+11->13->14->17->22->71->
+birthday: numero de ocorrencias
+58->
+bit: numero de ocorrencias
+3->6->23->25->28->31->35->39->40->56->73->78->81->
+bite: numero de ocorrencias
+57->
+bitterandand: numero de ocorrencias
+56->
+blacking: numero de ocorrencias
+66->
+blades: numero de ocorrencias
+23->
+blame: numero de ocorrencias
+48->
+blasts: numero de ocorrencias
+72->
+bleeds: numero de ocorrencias
+4->
+blew: numero de ocorrencias
+72->
+blow: numero de ocorrencias
+28->52->
+blown: numero de ocorrencias
+5->
+blows: numero de ocorrencias
+34->
+body: numero de ocorrencias
+52->55->
+boldly: numero de ocorrencias
+74->
+bone: numero de ocorrencias
+63->
+bones: numero de ocorrencias
+26->
+book: numero de ocorrencias
+1->4->19->53->78->79->
+books: numero de ocorrencias
+71->
+bookshelves: numero de ocorrencias
+2->
+boon: numero de ocorrencias
+69->
+boots: numero de ocorrencias
+6->66->67->
+bore: numero de ocorrencias
+56->
+bother: numero de ocorrencias
+35->
+bottle: numero de ocorrencias
+4->18->19->22->
+bough: numero de ocorrencias
+37->
+bound: numero de ocorrencias
+64->
+bowed: numero de ocorrencias
+14->32->48->49->
+bowing: numero de ocorrencias
+50->
+box: numero de ocorrencias
+5->6->14->26->
+boxed: numero de ocorrencias
+51->
+boy: numero de ocorrencias
+35->
+boyand: numero de ocorrencias
+84->
+brain: numero de ocorrencias
+26->
+branch: numero de ocorrencias
+38->
+branches: numero de ocorrencias
+31->62->
+brass: numero de ocorrencias
+18->
+brave: numero de ocorrencias
+2->
+breadandbutter: numero de ocorrencias
+45->72->73->74->75->
+breadknife: numero de ocorrencias
+41->
+break: numero de ocorrencias
+41->60->
+breath: numero de ocorrencias
+15->23->59->68->
+breathe: numero de ocorrencias
+41->74->
+breeze: numero de ocorrencias
+70->
+bright: numero de ocorrencias
+4->18->22->44->47->83->84->
+brightened: numero de ocorrencias
+5->80->
+brighteyed: numero de ocorrencias
+11->
+bring: numero de ocorrencias
+5->21->74->
+bringing: numero de ocorrencias
+31->48->73->
+bristling: numero de ocorrencias
+10->
+broke: numero de ocorrencias
+28->32->
+broken: numero de ocorrencias
+19->20->21->32->60->
+brothers: numero de ocorrencias
+10->
+brought: numero de ocorrencias
+25->31->54->
+brown: numero de ocorrencias
+11->68->
+brush: numero de ocorrencias
+48->
+brushing: numero de ocorrencias
+83->
+burn: numero de ocorrencias
+4->22->
+burning: numero de ocorrencias
+1->
+burnt: numero de ocorrencias
+4->
+burst: numero de ocorrencias
+8->
+bursting: numero de ocorrencias
+52->
+busily: numero de ocorrencias
+35->48->71->78->
+business: numero de ocorrencias
+20->34->48->50->56->78->
+busy: numero de ocorrencias
+26->84->
+butter: numero de ocorrencias
+41->
+buttercup: numero de ocorrencias
+23->
+buttered: numero de ocorrencias
+5->
+butterfly: numero de ocorrencias
+25->
+buttons: numero de ocorrencias
+68->
+bythe: numero de ocorrencias
+83->
+bythebye: numero de ocorrencias
+38->
+cackled: numero de ocorrencias
+78->
+cake: numero de ocorrencias
+6->
+cakes: numero de ocorrencias
+22->
+called: numero de ocorrencias
+11->12->13->16->17->18->22->25->31->49->54->60->63->66->72->
+calling: numero de ocorrencias
+14->
+calmly: numero de ocorrencias
+60->
+came: numero de ocorrencias
+3->4->7->18->20->21->22->25->26->31->32->34->39->44->48->49->51->52->59->60->67->68->70->72->81->83->
+camomile: numero de ocorrencias
+56->
+canary: numero de ocorrencias
+17->
+canbut: numero de ocorrencias
+6->
+candle: numero de ocorrencias
+5->
+canterbury: numero de ocorrencias
+12->
+canvas: numero de ocorrencias
+75->
+capering: numero de ocorrencias
+64->
+capital: numero de ocorrencias
+8->10->17->
+cardboard: numero de ocorrencias
+82->
+cards: numero de ocorrencias
+49->71->83->
+care: numero de ocorrencias
+6->37->56->
+carefully: numero de ocorrencias
+17->31->50->
+cares: numero de ocorrencias
+70->82->
+carried: numero de ocorrencias
+34->36->70->76->
+carrier: numero de ocorrencias
+7->
+carroll: numero de ocorrencias
+1->
+carry: numero de ocorrencias
+36->
+carrying: numero de ocorrencias
+49->
+carthorse: numero de ocorrencias
+23->
+cartwheels: numero de ocorrencias
+21->
+case: numero de ocorrencias
+9->13->23->26->42->
+cat: numero de ocorrencias
+3->10->17->33->34->37->38->39->52->53->54->
+catch: numero de ocorrencias
+3->12->21->
+catching: numero de ocorrencias
+10->17->
+caterpillar: numero de ocorrencias
+24->25->26->27->28->68->
+caterpillars: numero de ocorrencias
+25->
+cats: numero de ocorrencias
+3->10->11->34->53->55->
+cattle: numero de ocorrencias
+84->
+caucusrace: numero de ocorrencias
+11->13->
+caught: numero de ocorrencias
+35->36->54->
+cauldron: numero de ocorrencias
+33->34->
+cause: numero de ocorrencias
+9->12->16->
+caused: numero de ocorrencias
+14->17->
+cautiously: numero de ocorrencias
+42->46->57->
+ceiling: numero de ocorrencias
+19->
+centre: numero de ocorrencias
+2->
+certain: numero de ocorrencias
+4->8->10->
+certainly: numero de ocorrencias
+4->15->23->25->30->32->33->42->43->61->71->82->83->
+chains: numero de ocorrencias
+71->
+chance: numero de ocorrencias
+19->29->71->81->
+chanced: numero de ocorrencias
+48->
+change: numero de ocorrencias
+9->10->22->28->37->44->46->63->64->69->84->
+changed: numero de ocorrencias
+7->8->17->18->24->25->29->
+changes: numero de ocorrencias
+30->31->
+changing: numero de ocorrencias
+27->32->
+chapter: numero de ocorrencias
+1->6->11->17->24->31->39->48->55->63->71->77->
+character: numero de ocorrencias
+80->
+charges: numero de ocorrencias
+23->
+chatte: numero de ocorrencias
+10->
+cheap: numero de ocorrencias
+58->
+cheated: numero de ocorrencias
+5->
+checked: numero de ocorrencias
+48->63->66->
+cheeks: numero de ocorrencias
+63->
+cheered: numero de ocorrencias
+14->75->76->
+cheerfully: numero de ocorrencias
+8->
+cherrytart: numero de ocorrencias
+4->
+cheshire: numero de ocorrencias
+34->37->52->53->54->
+chief: numero de ocorrencias
+52->
+child: numero de ocorrencias
+5->9->30->35->36->49->50->56->68->
+childhood: numero de ocorrencias
+84->
+childlife: numero de ocorrencias
+84->
+children: numero de ocorrencias
+4->8->9->17->36->49->50->56->84->
+chimney: numero de ocorrencias
+19->21->
+chimneynay: numero de ocorrencias
+21->
+chimneys: numero de ocorrencias
+39->
+chin: numero de ocorrencias
+9->28->56->58->
+choice: numero de ocorrencias
+58->
+choke: numero de ocorrencias
+21->
+choked: numero de ocorrencias
+14->63->70->
+choking: numero de ocorrencias
+83->
+choosing: numero de ocorrencias
+46->
+chop: numero de ocorrencias
+34->
+chorus: numero de ocorrencias
+13->16->21->35->70->
+chose: numero de ocorrencias
+28->57->
+christmas: numero de ocorrencias
+6->
+chrysalisyou: numero de ocorrencias
+25->
+chuckled: numero de ocorrencias
+59->
+circle: numero de ocorrencias
+13->
+circumstances: numero de ocorrencias
+23->
+civil: numero de ocorrencias
+40->45->
+clamour: numero de ocorrencias
+84->
+clapping: numero de ocorrencias
+80->
+clasped: numero de ocorrencias
+83->
+classics: numero de ocorrencias
+62->
+claws: numero de ocorrencias
+8->37->
+clean: numero de ocorrencias
+46->
+clear: numero de ocorrencias
+10->57->
+cleared: numero de ocorrencias
+64->
+clearer: numero de ocorrencias
+82->
+clearly: numero de ocorrencias
+24->
+clever: numero de ocorrencias
+27->80->
+climb: numero de ocorrencias
+5->
+clinging: numero de ocorrencias
+11->
+clock: numero de ocorrencias
+42->43->
+close: numero de ocorrencias
+1->3->11->21->34->47->51->53->56->65->67->
+closed: numero de ocorrencias
+47->84->
+closely: numero de ocorrencias
+28->
+closer: numero de ocorrencias
+56->
+clubs: numero de ocorrencias
+49->
+coast: numero de ocorrencias
+9->
+coaxing: numero de ocorrencias
+23->
+coils: numero de ocorrencias
+62->
+cold: numero de ocorrencias
+12->
+collar: numero de ocorrencias
+76->
+collected: numero de ocorrencias
+54->77->
+come: numero de ocorrencias
+2->5->8->9->10->11->16->17->18->20->21->25->29->30->31->37->38->40->44->51->53->55->59->60->62->65->67->69->70->72->76->79->80->
+comes: numero de ocorrencias
+21->49->
+comfits: numero de ocorrencias
+14->
+comfort: numero de ocorrencias
+19->
+comfortable: numero de ocorrencias
+71->
+comfortably: numero de ocorrencias
+52->
+coming: numero de ocorrencias
+2->7->17->18->20->21->39->53->68->
+common: numero de ocorrencias
+6->
+commotion: numero de ocorrencias
+11->
+company: numero de ocorrencias
+59->
+complained: numero de ocorrencias
+14->
+complaining: numero de ocorrencias
+53->
+completely: numero de ocorrencias
+18->
+concert: numero de ocorrencias
+43->74->
+concluded: numero de ocorrencias
+20->69->
+conclusion: numero de ocorrencias
+9->52->
+condemn: numero de ocorrencias
+16->
+conduct: numero de ocorrencias
+12->
+confused: numero de ocorrencias
+14->46->47->84->
+confusing: numero de ocorrencias
+24->53->69->
+confusion: numero de ocorrencias
+14->21->54->73->77->
+congereel: numero de ocorrencias
+62->
+conqueror: numero de ocorrencias
+10->12->
+conquest: numero de ocorrencias
+12->
+consented: numero de ocorrencias
+46->
+consider: numero de ocorrencias
+50->72->79->82->
+considered: numero de ocorrencias
+31->41->66->
+considering: numero de ocorrencias
+1->2->46->
+constant: numero de ocorrencias
+32->60->
+consultation: numero de ocorrencias
+11->
+contempt: numero de ocorrencias
+30->
+contemptuous: numero de ocorrencias
+68->
+contemptuously: numero de ocorrencias
+25->42->
+content: numero de ocorrencias
+27->
+continued: numero de ocorrencias
+12->30->33->43->64->68->69->75->
+contradicted: numero de ocorrencias
+27->
+conversation: numero de ocorrencias
+11->19->24->25->34->41->54->56->
+conversations: numero de ocorrencias
+1->
+cook: numero de ocorrencias
+33->34->35->48->76->77->
+cool: numero de ocorrencias
+4->47->
+corner: numero de ocorrencias
+3->39->
+cornerno: numero de ocorrencias
+21->
+corners: numero de ocorrencias
+49->
+cost: numero de ocorrencias
+58->
+counting: numero de ocorrencias
+62->
+country: numero de ocorrencias
+3->
+couple: numero de ocorrencias
+26->
+couples: numero de ocorrencias
+49->
+courage: numero de ocorrencias
+34->50->67->
+course: numero de ocorrencias
+11->12->13->14->41->42->46->57->59->61->62->63->64->66->67->72->74->78->
+coursei: numero de ocorrencias
+82->
+court: numero de ocorrencias
+71->72->73->74->75->76->77->78->79->82->
+courtiers: numero de ocorrencias
+49->50->
+coward: numero de ocorrencias
+20->
+crab: numero de ocorrencias
+16->62->
+crash: numero de ocorrencias
+20->32->
+crashed: numero de ocorrencias
+83->
+crashnow: numero de ocorrencias
+21->
+crawled: numero de ocorrencias
+28->
+crawling: numero de ocorrencias
+52->
+crazy: numero de ocorrencias
+33->
+creature: numero de ocorrencias
+36->59->
+creatures: numero de ocorrencias
+11->28->33->62->64->67->68->71->83->
+creep: numero de ocorrencias
+6->
+crept: numero de ocorrencias
+31->
+cried: numero de ocorrencias
+5->6->8->9->10->11->16->34->39->44->64->70->72->77->
+cries: numero de ocorrencias
+84->
+crimson: numero de ocorrencias
+49->50->
+crocodile: numero de ocorrencias
+8->
+croquet: numero de ocorrencias
+5->32->35->38->51->
+croqueted: numero de ocorrencias
+53->
+croquetground: numero de ocorrencias
+48->52->58->
+croqueting: numero de ocorrencias
+54->
+cross: numero de ocorrencias
+11->
+crossed: numero de ocorrencias
+8->74->
+crossexamine: numero de ocorrencias
+76->77->
+crossly: numero de ocorrencias
+12->
+crouched: numero de ocorrencias
+31->
+crowd: numero de ocorrencias
+22->54->71->77->
+crowded: numero de ocorrencias
+11->13->14->39->
+crown: numero de ocorrencias
+12->49->71->
+crumbs: numero de ocorrencias
+41->66->
+crying: numero de ocorrencias
+5->7->
+cucumberframe: numero de ocorrencias
+20->
+cucumberframes: numero de ocorrencias
+21->
+cunning: numero de ocorrencias
+15->
+cup: numero de ocorrencias
+41->46->
+cupboards: numero de ocorrencias
+2->
+cur: numero de ocorrencias
+15->
+curiosity: numero de ocorrencias
+1->40->41->53->67->
+curious: numero de ocorrencias
+5->11->19->31->39->47->48->52->63->65->68->73->77->83->
+curiouser: numero de ocorrencias
+6->
+curled: numero de ocorrencias
+19->31->
+curls: numero de ocorrencias
+32->
+curly: numero de ocorrencias
+11->
+currants: numero de ocorrencias
+6->
+curtain: numero de ocorrencias
+4->
+curtsey: numero de ocorrencias
+3->
+curtseying: numero de ocorrencias
+3->
+curving: numero de ocorrencias
+29->
+cushion: numero de ocorrencias
+39->49->
+custard: numero de ocorrencias
+4->
+custody: numero de ocorrencias
+59->
+cut: numero de ocorrencias
+4->49->55->75->
+cutting: numero de ocorrencias
+40->
+d: numero de ocorrencias
+14->
+dainties: numero de ocorrencias
+70->
+daisies: numero de ocorrencias
+1->
+daisychain: numero de ocorrencias
+1->
+dance: numero de ocorrencias
+63->64->65->66->
+dancing: numero de ocorrencias
+65->69->
+dare: numero de ocorrencias
+14->42->46->57->69->
+daresay: numero de ocorrencias
+10->
+dark: numero de ocorrencias
+2->3->4->
+darkness: numero de ocorrencias
+7->
+dates: numero de ocorrencias
+73->
+daughter: numero de ocorrencias
+16->
+day: numero de ocorrencias
+1->13->24->25->27->30->33->34->36->41->51->58->61->62->63->72->80->82->
+days: numero de ocorrencias
+33->41->84->
+dayschool: numero de ocorrencias
+61->
+dead: numero de ocorrencias
+22->82->83->
+deal: numero de ocorrencias
+6->9->13->21->28->30->34->37->46->72->73->
+dear: numero de ocorrencias
+1->3->7->8->10->11->12->15->16->17->23->36->50->54->55->56->77->82->83->
+dears: numero de ocorrencias
+6->17->49->
+death: numero de ocorrencias
+16->
+decided: numero de ocorrencias
+5->63->74->
+decidedly: numero de ocorrencias
+27->32->50->54->
+declare: numero de ocorrencias
+9->68->
+declared: numero de ocorrencias
+12->
+deep: numero de ocorrencias
+2->7->60->67->76->
+deepest: numero de ocorrencias
+30->
+deeply: numero de ocorrencias
+4->60->63->70->
+delay: numero de ocorrencias
+58->
+delight: numero de ocorrencias
+4->23->29->
+delighted: numero de ocorrencias
+22->29->
+delightful: numero de ocorrencias
+63->65->
+denial: numero de ocorrencias
+15->
+denied: numero de ocorrencias
+37->75->
+denies: numero de ocorrencias
+75->
+deny: numero de ocorrencias
+75->
+denying: numero de ocorrencias
+30->
+depends: numero de ocorrencias
+37->
+derision: numero de ocorrencias
+62->
+deserved: numero de ocorrencias
+48->
+despair: numero de ocorrencias
+14->
+desperate: numero de ocorrencias
+7->
+desperately: numero de ocorrencias
+33->
+diamonds: numero de ocorrencias
+49->
+did: numero de ocorrencias
+1->2->3->8->11->12->14->18->20->21->22->23->26->28->31->33->34->35->36->37->38->39->45->46->49->50->51->54->56->58->59->60->61->62->63->69->71->72->73->75->80->82->
+didnt: numero de ocorrencias
+2->3->10->16->34->38->40->51->61->72->75->80->
+die: numero de ocorrencias
+77->
+died: numero de ocorrencias
+58->
+different: numero de ocorrencias
+8->24->25->26->62->67->68->
+difficult: numero de ocorrencias
+28->52->
+difficulties: numero de ocorrencias
+54->
+difficulty: numero de ocorrencias
+22->35->52->54->
+dig: numero de ocorrencias
+58->
+digging: numero de ocorrencias
+9->20->56->
+diligently: numero de ocorrencias
+78->
+dinah: numero de ocorrencias
+3->10->17->18->22->
+dinahll: numero de ocorrencias
+3->18->
+dinahs: numero de ocorrencias
+17->
+dinn: numero de ocorrencias
+66->
+dinner: numero de ocorrencias
+11->43->
+dipped: numero de ocorrencias
+2->41->
+directed: numero de ocorrencias
+79->
+direction: numero de ocorrencias
+18->29->37->38->
+directions: numero de ocorrencias
+7->36->51->
+directly: numero de ocorrencias
+18->22->
+disagree: numero de ocorrencias
+4->
+disappeared: numero de ocorrencias
+55->77->
+disappointment: numero de ocorrencias
+2->
+disgust: numero de ocorrencias
+47->
+dish: numero de ocorrencias
+32->69->70->71->
+dishes: numero de ocorrencias
+34->83->
+dismay: numero de ocorrencias
+77->
+disobey: numero de ocorrencias
+69->
+dispute: numero de ocorrencias
+52->54->
+distance: numero de ocorrencias
+7->17->23->54->60->70->84->
+distancebut: numero de ocorrencias
+2->
+distant: numero de ocorrencias
+29->84->
+distraction: numero de ocorrencias
+62->
+dive: numero de ocorrencias
+29->
+dodged: numero de ocorrencias
+23->
+dodo: numero de ocorrencias
+11->13->14->
+does: numero de ocorrencias
+18->20->30->34->35->41->55->66->
+doesnt: numero de ocorrencias
+8->10->13->17->18->27->37->39->41->54->57->60->78->81->
+dog: numero de ocorrencias
+11->38->
+dogs: numero de ocorrencias
+11->38->
+doing: numero de ocorrencias
+18->34->49->50->71->
+dont: numero de ocorrencias
+6->10->11->13->18->20->21->24->26->27->30->31->34->35->36->37->40->42->44->46->47->48->51->53->54->57->58->59->60->61->62->66->67->69->73->74->80->81->82->
+door: numero de ocorrencias
+3->4->5->6->7->9->18->19->20->22->26->31->32->33->47->76->
+doori: numero de ocorrencias
+19->
+doors: numero de ocorrencias
+3->
+doorway: numero de ocorrencias
+4->
+dormouse: numero de ocorrencias
+39->41->42->43->44->45->46->47->73->74->75->76->77->
+dormouses: numero de ocorrencias
+46->
+doth: numero de ocorrencias
+8->26->
+double: numero de ocorrencias
+52->
+doubledup: numero de ocorrencias
+52->
+doubling: numero de ocorrencias
+36->
+doubt: numero de ocorrencias
+22->33->36->
+doubtful: numero de ocorrencias
+49->57->
+doubtfully: numero de ocorrencias
+30->62->
+downhere: numero de ocorrencias
+21->
+downward: numero de ocorrencias
+2->
+downwards: numero de ocorrencias
+78->
+doze: numero de ocorrencias
+47->
+dozing: numero de ocorrencias
+3->
+draggled: numero de ocorrencias
+11->
+draw: numero de ocorrencias
+29->46->
+drawing: numero de ocorrencias
+47->
+drawling: numero de ocorrencias
+62->
+drawlingmaster: numero de ocorrencias
+62->
+drawlingthe: numero de ocorrencias
+62->
+dreadful: numero de ocorrencias
+33->67->
+dreadfully: numero de ocorrencias
+36->42->43->52->53->69->
+dream: numero de ocorrencias
+3->83->84->
+dreamed: numero de ocorrencias
+83->
+dreaming: numero de ocorrencias
+83->
+dreamy: numero de ocorrencias
+3->
+dressed: numero de ocorrencias
+7->
+drew: numero de ocorrencias
+21->25->46->63->68->
+dried: numero de ocorrencias
+7->
+driest: numero de ocorrencias
+12->
+drink: numero de ocorrencias
+4->18->23->
+drinking: numero de ocorrencias
+45->
+dripping: numero de ocorrencias
+11->
+drive: numero de ocorrencias
+33->61->
+drop: numero de ocorrencias
+2->
+dropped: numero de ocorrencias
+7->9->17->41->75->
+dropping: numero de ocorrencias
+64->
+drowned: numero de ocorrencias
+9->
+drunk: numero de ocorrencias
+19->
+dry: numero de ocorrencias
+3->11->12->13->68->
+duchess: numero de ocorrencias
+7->17->32->33->34->35->51->55->56->57->58->
+duchesss: numero de ocorrencias
+58->76->83->
+duck: numero de ocorrencias
+11->12->68->
+dull: numero de ocorrencias
+6->61->84->
+dunce: numero de ocorrencias
+74->
+eager: numero de ocorrencias
+49->83->84->
+eagerly: numero de ocorrencias
+11->17->54->63->65->69->73->
+eaglet: numero de ocorrencias
+11->13->
+ear: numero de ocorrencias
+33->36->41->51->56->
+earls: numero de ocorrencias
+12->
+earnestly: numero de ocorrencias
+3->45->
+ears: numero de ocorrencias
+3->5->39->51->53->
+earth: numero de ocorrencias
+2->34->61->
+easily: numero de ocorrencias
+16->28->29->
+easy: numero de ocorrencias
+13->45->
+eat: numero de ocorrencias
+3->6->14->17->18->22->23->28->30->40->
+eaten: numero de ocorrencias
+4->
+eating: numero de ocorrencias
+45->
+eats: numero de ocorrencias
+6->
+edgar: numero de ocorrencias
+12->
+edge: numero de ocorrencias
+24->28->77->
+edition: numero de ocorrencias
+1->
+editions: numero de ocorrencias
+68->69->
+educationsin: numero de ocorrencias
+61->
+edwin: numero de ocorrencias
+12->
+eeevening: numero de ocorrencias
+70->
+eel: numero de ocorrencias
+27->
+eels: numero de ocorrencias
+67->
+effect: numero de ocorrencias
+19->28->
+egg: numero de ocorrencias
+30->
+eggs: numero de ocorrencias
+30->31->
+elbow: numero de ocorrencias
+19->20->48->
+elbows: numero de ocorrencias
+39->
+elegant: numero de ocorrencias
+14->
+eleventh: numero de ocorrencias
+63->
+elsebut: numero de ocorrencias
+8->
+elses: numero de ocorrencias
+80->
+elsie: numero de ocorrencias
+44->
+em: numero de ocorrencias
+21->34->
+emphasis: numero de ocorrencias
+77->
+encourage: numero de ocorrencias
+73->
+encouraged: numero de ocorrencias
+62->
+encouraging: numero de ocorrencias
+24->39->
+end: numero de ocorrencias
+2->5->10->27->33->35->39->53->59->61->70->71->75->80->84->
+ending: numero de ocorrencias
+39->
+energetic: numero de ocorrencias
+13->
+engaged: numero de ocorrencias
+54->
+england: numero de ocorrencias
+65->
+english: numero de ocorrencias
+6->9->10->12->13->42->
+engraved: numero de ocorrencias
+18->
+enjoy: numero de ocorrencias
+35->
+enormous: numero de ocorrencias
+23->
+enoughi: numero de ocorrencias
+19->
+entangled: numero de ocorrencias
+31->32->
+entirely: numero de ocorrencias
+55->82->
+entrance: numero de ocorrencias
+48->
+escape: numero de ocorrencias
+9->23->52->54->
+esq: numero de ocorrencias
+7->
+est: numero de ocorrencias
+10->
+evening: numero de ocorrencias
+70->
+everybody: numero de ocorrencias
+13->34->50->55->56->60->79->82->
+everythings: numero de ocorrencias
+47->56->
+evidence: numero de ocorrencias
+73->74->76->77->79->81->
+evidently: numero de ocorrencias
+51->
+exact: numero de ocorrencias
+13->
+exactly: numero de ocorrencias
+14->27->33->40->44->54->56->81->
+examining: numero de ocorrencias
+50->
+excellent: numero de ocorrencias
+22->54->
+exclaimed: numero de ocorrencias
+43->57->62->63->73->77->
+exclamation: numero de ocorrencias
+60->
+execute: numero de ocorrencias
+50->
+executed: numero de ocorrencias
+17->54->55->73->74->75->
+executes: numero de ocorrencias
+59->
+execution: numero de ocorrencias
+51->59->
+executioner: numero de ocorrencias
+54->55->
+executioners: numero de ocorrencias
+55->
+executiononce: numero de ocorrencias
+83->
+executions: numero de ocorrencias
+59->
+existence: numero de ocorrencias
+9->
+expected: numero de ocorrencias
+18->
+expecting: numero de ocorrencias
+6->23->38->
+experiment: numero de ocorrencias
+57->
+explain: numero de ocorrencias
+13->18->24->67->69->75->81->
+explained: numero de ocorrencias
+69->
+explanation: numero de ocorrencias
+37->73->
+explanations: numero de ocorrencias
+67->
+expressing: numero de ocorrencias
+36->
+expression: numero de ocorrencias
+52->
+extraordinary: numero de ocorrencias
+32->45->
+extras: numero de ocorrencias
+61->
+extremely: numero de ocorrencias
+36->53->
+eye: numero de ocorrencias
+6->7->18->27->48->69->81->
+eyelids: numero de ocorrencias
+68->
+eyes: numero de ocorrencias
+1->5->7->8->10->12->23->24->31->32->36->40->42->44->46->47->53->59->60->63->67->76->83->84->
+eyesand: numero de ocorrencias
+83->
+eyestell: numero de ocorrencias
+66->
+face: numero de ocorrencias
+5->11->22->29->31->36->49->51->52->68->82->83->
+faceand: numero de ocorrencias
+10->
+faces: numero de ocorrencias
+49->50->62->78->
+fact: numero de ocorrencias
+4->7->34->48->61->73->79->
+fading: numero de ocorrencias
+55->
+failure: numero de ocorrencias
+20->
+faint: numero de ocorrencias
+23->
+fainting: numero de ocorrencias
+62->
+faintly: numero de ocorrencias
+70->
+fair: numero de ocorrencias
+58->
+fairly: numero de ocorrencias
+53->
+fairytales: numero de ocorrencias
+19->
+fall: numero de ocorrencias
+2->3->20->48->66->
+fallen: numero de ocorrencias
+2->9->11->20->
+falling: numero de ocorrencias
+2->3->
+familiarly: numero de ocorrencias
+11->
+family: numero de ocorrencias
+10->
+fan: numero de ocorrencias
+7->9->17->18->
+fancied: numero de ocorrencias
+19->20->
+fancy: numero de ocorrencias
+5->10->45->59->60->
+fancying: numero de ocorrencias
+18->
+fancywhos: numero de ocorrencias
+21->
+fanned: numero de ocorrencias
+23->
+fanning: numero de ocorrencias
+7->
+far: numero de ocorrencias
+6->21->28->29->37->60->64->65->69->82->
+farmer: numero de ocorrencias
+11->
+farmyardwhile: numero de ocorrencias
+84->
+farther: numero de ocorrencias
+39->
+fashion: numero de ocorrencias
+74->83->
+fast: numero de ocorrencias
+39->59->66->75->
+faster: numero de ocorrencias
+34->65->70->
+fat: numero de ocorrencias
+26->
+father: numero de ocorrencias
+26->27->68->
+favoured: numero de ocorrencias
+12->
+favourite: numero de ocorrencias
+58->
+fear: numero de ocorrencias
+2->18->32->71->
+feared: numero de ocorrencias
+26->
+feather: numero de ocorrencias
+57->
+feathers: numero de ocorrencias
+11->
+feeble: numero de ocorrencias
+21->44->
+feebly: numero de ocorrencias
+23->
+feel: numero de ocorrencias
+1->6->25->52->58->62->84->
+feeling: numero de ocorrencias
+5->7->34->53->57->65->77->
+feelings: numero de ocorrencias
+10->25->
+feet: numero de ocorrencias
+1->3->6->7->9->13->20->23->31->39->49->52->83->
+fell: numero de ocorrencias
+2->6->18->47->
+fellow: numero de ocorrencias
+21->22->61->70->
+fellows: numero de ocorrencias
+44->
+felt: numero de ocorrencias
+3->5->7->10->12->17->19->25->27->28->31->34->36->37->42->59->61->69->73->
+fender: numero de ocorrencias
+7->
+ferrets: numero de ocorrencias
+17->
+fetch: numero de ocorrencias
+11->17->18->20->21->54->55->
+fidgeted: numero de ocorrencias
+73->
+field: numero de ocorrencias
+1->
+fifteenth: numero de ocorrencias
+73->
+fifth: numero de ocorrencias
+16->
+fig: numero de ocorrencias
+39->
+fight: numero de ocorrencias
+54->
+fighting: numero de ocorrencias
+52->
+figure: numero de ocorrencias
+64->65->69->
+figures: numero de ocorrencias
+35->
+filled: numero de ocorrencias
+2->8->84->
+fills: numero de ocorrencias
+20->
+finding: numero de ocorrencias
+4->5->56->
+finds: numero de ocorrencias
+18->
+fine: numero de ocorrencias
+51->58->
+finger: numero de ocorrencias
+4->13->14->72->82->
+finish: numero de ocorrencias
+16->17->45->60->76->
+finished: numero de ocorrencias
+5->6->14->26->29->43->60->69->73->76->83->
+finishing: numero de ocorrencias
+53->
+fireirons: numero de ocorrencias
+34->
+fireplace: numero de ocorrencias
+21->
+firstthey: numero de ocorrencias
+21->
+firstverdict: numero de ocorrencias
+82->
+fish: numero de ocorrencias
+67->70->
+fishand: numero de ocorrencias
+31->
+fishes: numero de ocorrencias
+8->
+fishfootman: numero de ocorrencias
+32->
+fit: numero de ocorrencias
+81->82->
+fits: numero de ocorrencias
+82->
+fitted: numero de ocorrencias
+4->
+fix: numero de ocorrencias
+34->
+fixed: numero de ocorrencias
+12->
+flame: numero de ocorrencias
+5->
+flamingo: numero de ocorrencias
+52->53->54->57->
+flamingoes: numero de ocorrencias
+52->57->
+flapper: numero de ocorrencias
+63->
+flappers: numero de ocorrencias
+62->
+flashed: numero de ocorrencias
+1->
+flat: numero de ocorrencias
+49->
+flavour: numero de ocorrencias
+4->
+flew: numero de ocorrencias
+34->
+flinging: numero de ocorrencias
+35->
+flock: numero de ocorrencias
+57->
+floor: numero de ocorrencias
+19->22->75->
+flowerbeds: numero de ocorrencias
+47->
+flowerpot: numero de ocorrencias
+50->
+flowers: numero de ocorrencias
+4->23->
+flown: numero de ocorrencias
+29->
+flung: numero de ocorrencias
+48->
+flurry: numero de ocorrencias
+77->
+flustered: numero de ocorrencias
+21->
+fluttered: numero de ocorrencias
+83->
+fly: numero de ocorrencias
+43->54->58->
+flying: numero de ocorrencias
+83->
+folded: numero de ocorrencias
+24->26->58->
+folding: numero de ocorrencias
+76->
+follow: numero de ocorrencias
+29->57->
+followed: numero de ocorrencias
+5->34->46->49->58->60->70->73->
+follows: numero de ocorrencias
+68->69->72->
+fond: numero de ocorrencias
+5->52->56->
+fondofof: numero de ocorrencias
+11->
+foolish: numero de ocorrencias
+19->
+foot: numero de ocorrencias
+7->9->19->21->28->36->47->50->73->
+footman: numero de ocorrencias
+31->32->33->
+footmans: numero de ocorrencias
+32->
+footmen: numero de ocorrencias
+31->
+footsteps: numero de ocorrencias
+17->49->
+forehead: numero de ocorrencias
+13->77->
+forepaws: numero de ocorrencias
+65->
+forget: numero de ocorrencias
+56->71->
+forgetting: numero de ocorrencias
+20->46->77->
+forgot: numero de ocorrencias
+6->10->
+forgotten: numero de ocorrencias
+4->5->23->38->56->65->
+fork: numero de ocorrencias
+69->
+form: numero de ocorrencias
+64->
+fortunately: numero de ocorrencias
+1->
+fortytwo: numero de ocorrencias
+79->
+forwards: numero de ocorrencias
+23->
+fountains: numero de ocorrencias
+4->47->
+fourteenth: numero de ocorrencias
+73->
+fourth: numero de ocorrencias
+41->
+france: numero de ocorrencias
+65->
+free: numero de ocorrencias
+29->30->81->
+french: numero de ocorrencias
+10->61->
+friend: numero de ocorrencias
+53->54->65->
+friends: numero de ocorrencias
+4->83->
+fright: numero de ocorrencias
+10->83->
+frighten: numero de ocorrencias
+31->
+frightened: numero de ocorrencias
+9->18->23->28->51->58->83->
+frog: numero de ocorrencias
+12->31->
+frogfootman: numero de ocorrencias
+32->
+frontispiece: numero de ocorrencias
+71->
+frowning: numero de ocorrencias
+12->58->76->78->
+fryingpan: numero de ocorrencias
+35->
+fulcrum: numero de ocorrencias
+1->
+fumbled: numero de ocorrencias
+77->
+fun: numero de ocorrencias
+40->59->
+funny: numero de ocorrencias
+2->7->41->
+fur: numero de ocorrencias
+11->17->39->
+furious: numero de ocorrencias
+52->
+furiously: numero de ocorrencias
+82->
+furrow: numero de ocorrencias
+52->
+furrows: numero de ocorrencias
+52->
+fury: numero de ocorrencias
+15->16->50->
+gained: numero de ocorrencias
+67->
+gallons: numero de ocorrencias
+7->
+game: numero de ocorrencias
+5->23->52->53->54->55->58->70->
+games: numero de ocorrencias
+56->63->
+garden: numero de ocorrencias
+4->5->6->7->9->22->47->48->49->54->69->
+gardeners: numero de ocorrencias
+48->49->50->
+gardenhow: numero de ocorrencias
+31->
+gather: numero de ocorrencias
+84->
+gave: numero de ocorrencias
+5->10->21->26->30->51->65->66->80->81->82->83->
+gay: numero de ocorrencias
+68->
+gazing: numero de ocorrencias
+78->
+general: numero de ocorrencias
+9->21->80->
+generally: numero de ocorrencias
+5->6->12->52->59->64->
+gently: numero de ocorrencias
+8->45->83->
+geography: numero de ocorrencias
+8->
+getting: numero de ocorrencias
+1->2->3->6->11->12->16->17->19->29->31->36->38->44->46->52->60->74->77->83->
+giddy: numero de ocorrencias
+39->50->
+girl: numero de ocorrencias
+3->7->30->
+girls: numero de ocorrencias
+30->71->
+given: numero de ocorrencias
+43->
+giving: numero de ocorrencias
+22->35->
+glad: numero de ocorrencias
+2->9->34->40->53->55->58->65->69->75->
+glanced: numero de ocorrencias
+35->
+glaring: numero de ocorrencias
+50->
+glass: numero de ocorrencias
+3->5->6->9->18->20->21->47->
+globe: numero de ocorrencias
+77->
+gloomily: numero de ocorrencias
+41->
+gloves: numero de ocorrencias
+7->9->17->18->20->
+glovesthat: numero de ocorrencias
+18->
+goes: numero de ocorrencias
+8->21->34->43->82->
+going: numero de ocorrencias
+2->4->5->9->13->18->29->31->32->36->42->47->50->52->53->54->55->56->67->
+golden: numero de ocorrencias
+3->4->5->7->8->9->47->
+goldfish: numero de ocorrencias
+77->
+gone: numero de ocorrencias
+19->30->32->39->51->54->55->58->60->80->
+good: numero de ocorrencias
+2->5->6->9->21->23->25->27->28->30->33->37->42->46->59->61->71->73->80->
+goodbye: numero de ocorrencias
+6->
+goodnatured: numero de ocorrencias
+37->
+goodnaturedly: numero de ocorrencias
+17->
+goose: numero de ocorrencias
+20->26->
+got: numero de ocorrencias
+2->4->5->6->7->9->14->16->18->20->21->22->23->24->27->28->29->31->32->34->41->46->47->52->53->54->56->60->66->67->68->72->74->76->77->78->83->
+graceful: numero de ocorrencias
+29->
+grammar: numero de ocorrencias
+10->
+grand: numero de ocorrencias
+2->43->49->
+grant: numero de ocorrencias
+38->
+grass: numero de ocorrencias
+23->28->83->84->
+grave: numero de ocorrencias
+14->55->77->
+gravely: numero de ocorrencias
+14->25->80->
+gravy: numero de ocorrencias
+69->
+grazed: numero de ocorrencias
+32->
+great: numero de ocorrencias
+2->4->6->7->8->10->13->18->23->32->37->40->43->44->45->47->52->53->54->58->61->67->71->72->75->77->79->
+green: numero de ocorrencias
+29->70->
+grew: numero de ocorrencias
+19->
+grey: numero de ocorrencias
+26->
+grief: numero de ocorrencias
+62->
+grin: numero de ocorrencias
+8->34->39->52->
+grinned: numero de ocorrencias
+34->37->
+grinning: numero de ocorrencias
+33->
+grins: numero de ocorrencias
+33->
+ground: numero de ocorrencias
+32->52->54->58->
+groundand: numero de ocorrencias
+53->
+grow: numero de ocorrencias
+6->18->19->22->23->28->74->
+growing: numero de ocorrencias
+6->9->19->23->31->48->74->
+growl: numero de ocorrencias
+34->38->69->
+growled: numero de ocorrencias
+16->
+growling: numero de ocorrencias
+38->
+growls: numero de ocorrencias
+38->
+grown: numero de ocorrencias
+19->26->36->77->81->82->84->
+grumbled: numero de ocorrencias
+41->
+grunt: numero de ocorrencias
+36->
+grunted: numero de ocorrencias
+36->
+gryphon: numero de ocorrencias
+59->60->61->62->63->64->65->66->67->68->69->70->71->83->84->
+guard: numero de ocorrencias
+71->
+guess: numero de ocorrencias
+9->21->40->
+guessed: numero de ocorrencias
+17->42->76->
+guests: numero de ocorrencias
+49->58->83->
+guilt: numero de ocorrencias
+80->
+guineapig: numero de ocorrencias
+75->76->
+guineapigs: numero de ocorrencias
+22->75->76->83->
+hadnt: numero de ocorrencias
+9->17->19->21->62->73->74->
+hair: numero de ocorrencias
+8->11->26->31->40->68->83->
+half: numero de ocorrencias
+4->7->10->11->13->14->17->19->21->23->31->38->47->58->59->83->84->
+halfpast: numero de ocorrencias
+43->
+hall: numero de ocorrencias
+3->4->7->18->47->
+hand: numero de ocorrencias
+3->6->7->14->20->21->28->49->50->53->70->71->72->76->80->83->
+handed: numero de ocorrencias
+14->32->78->
+hands: numero de ocorrencias
+8->9->26->29->31->49->52->68->80->81->83->
+handsome: numero de ocorrencias
+36->
+handwriting: numero de ocorrencias
+79->
+hanging: numero de ocorrencias
+3->23->52->
+happen: numero de ocorrencias
+2->6->18->21->51->52->68->
+happened: numero de ocorrencias
+4->5->10->19->21->33->
+happening: numero de ocorrencias
+38->
+happens: numero de ocorrencias
+6->19->31->44->
+happy: numero de ocorrencias
+84->
+hard: numero de ocorrencias
+7->11->20->22->23->54->75->77->
+hardly: numero de ocorrencias
+5->19->21->23->24->27->28->35->43->53->68->74->
+hare: numero de ocorrencias
+37->38->39->40->41->42->43->44->45->46->47->73->74->75->83->
+harm: numero de ocorrencias
+10->
+haste: numero de ocorrencias
+78->
+hastily: numero de ocorrencias
+7->9->10->12->19->27->30->40->63->66->69->72->78->79->82->
+hat: numero de ocorrencias
+73->
+hatching: numero de ocorrencias
+30->
+hate: numero de ocorrencias
+11->
+hatec: numero de ocorrencias
+14->
+hated: numero de ocorrencias
+10->
+hatter: numero de ocorrencias
+37->39->40->41->42->43->44->45->46->47->72->73->74->75->76->
+hatters: numero de ocorrencias
+38->42->
+havent: numero de ocorrencias
+24->29->30->38->42->63->77->79->
+having: numero de ocorrencias
+1->5->10->23->39->49->54->56->82->
+head: numero de ocorrencias
+4->6->7->13->16->19->22->23->26->29->32->34->39->42->43->44->49->50->52->53->54->55->58->59->68->75->76->77->78->81->82->83->
+headbrandy: numero de ocorrencias
+21->
+heads: numero de ocorrencias
+2->8->21->29->31->49->50->51->77->
+heap: numero de ocorrencias
+3->
+hear: numero de ocorrencias
+1->3->10->20->32->35->51->53->59->60->67->68->83->
+heard: numero de ocorrencias
+7->9->11->17->19->20->21->22->43->44->48->49->54->56->59->62->68->69->70->81->
+hearing: numero de ocorrencias
+21->25->32->40->
+heart: numero de ocorrencias
+60->84->
+hearth: numero de ocorrencias
+33->
+hearthrug: numero de ocorrencias
+7->
+hearts: numero de ocorrencias
+43->49->71->72->
+heavy: numero de ocorrencias
+60->84->
+hed: numero de ocorrencias
+42->
+hedge: numero de ocorrencias
+1->21->
+hedgehog: numero de ocorrencias
+52->53->54->
+hedgehogs: numero de ocorrencias
+52->54->
+hedges: numero de ocorrencias
+29->
+heels: numero de ocorrencias
+23->
+height: numero de ocorrencias
+23->27->31->56->
+held: numero de ocorrencias
+22->23->31->36->
+hell: numero de ocorrencias
+18->
+help: numero de ocorrencias
+7->16->20->32->37->48->52->60->74->
+helped: numero de ocorrencias
+45->
+helpless: numero de ocorrencias
+54->
+herald: numero de ocorrencias
+72->
+herself: numero de ocorrencias
+2->3->5->6->7->8->9->10->11->14->16->17->18->19->21->22->23->24->25->28->31->32->33->36->37->38->39->45->47->49->52->55->56->59->60->63->66->71->77->78->83->84->
+hersshe: numero de ocorrencias
+83->
+hes: numero de ocorrencias
+33->43->65->
+hid: numero de ocorrencias
+62->
+hide: numero de ocorrencias
+13->
+high: numero de ocorrencias
+4->5->7->9->11->17->21->27->31->39->47->79->
+highest: numero de ocorrencias
+30->
+himhow: numero de ocorrencias
+21->
+himit: numero de ocorrencias
+48->
+himself: numero de ocorrencias
+7->32->48->51->78->82->
+hint: numero de ocorrencias
+35->43->
+hippopotamus: numero de ocorrencias
+9->
+hiss: numero de ocorrencias
+29->
+histories: numero de ocorrencias
+4->
+history: numero de ocorrencias
+10->11->14->59->60->78->
+hit: numero de ocorrencias
+22->34->
+hjckrrh: numero de ocorrencias
+60->
+hm: numero de ocorrencias
+70->
+hoarse: numero de ocorrencias
+8->34->44->
+hoarsely: numero de ocorrencias
+23->
+hold: numero de ocorrencias
+4->16->20->21->23->36->61->82->
+holding: numero de ocorrencias
+6->9->41->
+holiday: numero de ocorrencias
+63->
+hollow: numero de ocorrencias
+60->
+home: numero de ocorrencias
+2->17->18->19->36->
+honest: numero de ocorrencias
+80->
+honour: numero de ocorrencias
+20->
+hookah: numero de ocorrencias
+24->25->28->
+hope: numero de ocorrencias
+3->18->19->
+hoped: numero de ocorrencias
+18->
+hopeful: numero de ocorrencias
+55->
+hopeless: numero de ocorrencias
+7->
+hoping: numero de ocorrencias
+4->17->47->
+hot: numero de ocorrencias
+1->4->7->42->70->
+hottempered: numero de ocorrencias
+55->
+hour: numero de ocorrencias
+13->59->
+hours: numero de ocorrencias
+34->35->62->63->
+house: numero de ocorrencias
+2->8->11->15->18->20->22->31->32->39->
+housemaid: numero de ocorrencias
+18->
+houses: numero de ocorrencias
+9->
+howled: numero de ocorrencias
+35->
+howling: numero de ocorrencias
+32->33->34->
+humble: numero de ocorrencias
+50->
+humbly: numero de ocorrencias
+16->45->
+hung: numero de ocorrencias
+2->
+hungry: numero de ocorrencias
+23->43->71->
+hunting: numero de ocorrencias
+17->18->72->
+hurried: numero de ocorrencias
+1->7->17->18->35->49->51->54->58->70->83->
+hurriedly: numero de ocorrencias
+12->76->
+hurry: numero de ocorrencias
+4->7->10->23->29->44->62->75->77->79->
+hurrying: numero de ocorrencias
+3->
+hurt: numero de ocorrencias
+3->10->34->
+hush: numero de ocorrencias
+51->
+id: numero de ocorrencias
+18->23->30->38->39->43->53->67->76->
+idea: numero de ocorrencias
+2->9->14->15->22->29->30->42->44->53->63->77->82->
+idiot: numero de ocorrencias
+49->
+idiotic: numero de ocorrencias
+33->
+ifif: numero de ocorrencias
+23->
+ignorant: numero de ocorrencias
+3->
+ii: numero de ocorrencias
+6->24->
+iii: numero de ocorrencias
+11->
+iim: numero de ocorrencias
+30->
+ill: numero de ocorrencias
+4->6->8->11->12->15->16->18->19->20->22->27->36->45->47->48->54->60->73->74->75->81->
+im: numero de ocorrencias
+3->6->7->8->11->17->18->19->20->21->24->26->27->28->29->30->31->32->37->38->40->44->55->57->58->62->73->74->75->79->
+imagine: numero de ocorrencias
+57->77->
+imitated: numero de ocorrencias
+80->
+immediate: numero de ocorrencias
+13->
+immediately: numero de ocorrencias
+24->75->
+immense: numero de ocorrencias
+29->
+impatient: numero de ocorrencias
+67->
+impatiently: numero de ocorrencias
+16->42->49->67->69->
+impertinent: numero de ocorrencias
+53->
+important: numero de ocorrencias
+12->25->78->81->
+importantunimportantunimportantimportant: numero de ocorrencias
+78->
+impossible: numero de ocorrencias
+4->34->36->
+improve: numero de ocorrencias
+8->
+incessantly: numero de ocorrencias
+26->
+inches: numero de ocorrencias
+4->5->7->27->31->
+inclined: numero de ocorrencias
+13->
+indignant: numero de ocorrencias
+72->
+indignantly: numero de ocorrencias
+29->39->46->61->
+injure: numero de ocorrencias
+26->
+ink: numero de ocorrencias
+82->
+inkstand: numero de ocorrencias
+82->
+inquired: numero de ocorrencias
+62->
+inquisitively: numero de ocorrencias
+10->
+inside: numero de ocorrencias
+32->
+insolence: numero de ocorrencias
+12->
+instance: numero de ocorrencias
+32->42->53->
+instantly: numero de ocorrencias
+22->47->49->50->73->
+instead: numero de ocorrencias
+39->48->73->
+insult: numero de ocorrencias
+16->
+interesting: numero de ocorrencias
+18->38->60->65->66->
+interrupt: numero de ocorrencias
+45->
+interrupted: numero de ocorrencias
+44->46->61->63->64->69->72->75->78->
+interrupting: numero de ocorrencias
+46->81->
+introduce: numero de ocorrencias
+34->53->
+introduced: numero de ocorrencias
+63->
+invent: numero de ocorrencias
+30->
+invented: numero de ocorrencias
+79->
+invitation: numero de ocorrencias
+32->
+invited: numero de ocorrencias
+38->40->
+involved: numero de ocorrencias
+81->
+inwards: numero de ocorrencias
+20->
+irritated: numero de ocorrencias
+25->
+isbe: numero de ocorrencias
+57->
+isbirds: numero de ocorrencias
+57->
+isnt: numero de ocorrencias
+24->40->57->73->79->
+isoh: numero de ocorrencias
+8->56->
+istake: numero de ocorrencias
+56->
+isthe: numero de ocorrencias
+57->
+itll: numero de ocorrencias
+2->3->7->8->11->18->31->
+itonce: numero de ocorrencias
+83->
+itself: numero de ocorrencias
+1->17->20->27->28->36->43->52->59->
+itsits: numero de ocorrencias
+51->
+itthat: numero de ocorrencias
+21->
+iv: numero de ocorrencias
+17->
+ive: numero de ocorrencias
+2->7->8->11->15->18->22->23->25->26->29->30->31->38->39->43->45->53->58->60->61->65->66->73->75->83->
+ix: numero de ocorrencias
+55->
+jackinthebox: numero de ocorrencias
+21->
+jar: numero de ocorrencias
+2->
+jaw: numero de ocorrencias
+26->
+jaws: numero de ocorrencias
+8->26->
+jellyfish: numero de ocorrencias
+64->
+jogged: numero de ocorrencias
+48->
+join: numero de ocorrencias
+65->
+joined: numero de ocorrencias
+16->35->51->
+journey: numero de ocorrencias
+67->
+joys: numero de ocorrencias
+84->
+judge: numero de ocorrencias
+15->71->
+judging: numero de ocorrencias
+31->
+jumped: numero de ocorrencias
+3->23->34->43->50->77->
+jumping: numero de ocorrencias
+34->49->64->79->
+juror: numero de ocorrencias
+72->
+jurors: numero de ocorrencias
+71->72->
+jury: numero de ocorrencias
+15->72->73->75->78->79->80->81->82->
+jurybox: numero de ocorrencias
+71->77->78->
+jurymen: numero de ocorrencias
+71->77->79->
+just: numero de ocorrencias
+1->3->7->9->18->20->23->24->28->29->30->32->34->35->36->38->40->41->42->46->47->48->52->53->56->58->67->70->71->73->74->75->76->78->79->83->
+justice: numero de ocorrencias
+71->
+keeping: numero de ocorrencias
+56->
+kept: numero de ocorrencias
+7->12->15->26->31->35->36->42->47->73->77->81->
+kettle: numero de ocorrencias
+32->
+key: numero de ocorrencias
+3->4->5->6->7->9->47->
+kick: numero de ocorrencias
+21->27->
+kid: numero de ocorrencias
+7->9->17->18->
+kill: numero de ocorrencias
+36->
+killing: numero de ocorrencias
+2->
+kills: numero de ocorrencias
+11->
+kind: numero de ocorrencias
+6->19->29->30->56->68->69->
+kindly: numero de ocorrencias
+65->69->
+king: numero de ocorrencias
+49->50->53->54->55->59->71->72->73->74->75->76->77->78->79->80->81->82->
+kings: numero de ocorrencias
+49->55->
+kiss: numero de ocorrencias
+53->
+kissed: numero de ocorrencias
+83->
+kitchen: numero de ocorrencias
+33->55->
+knave: numero de ocorrencias
+49->50->71->72->80->81->
+knee: numero de ocorrencias
+50->75->81->83->
+kneel: numero de ocorrencias
+19->
+knelt: numero de ocorrencias
+4->
+knew: numero de ocorrencias
+4->8->20->36->37->42->52->54->56->66->68->71->84->
+knife: numero de ocorrencias
+4->69->
+knock: numero de ocorrencias
+32->
+knocked: numero de ocorrencias
+32->
+knocking: numero de ocorrencias
+18->32->
+knot: numero de ocorrencias
+16->36->
+know: numero de ocorrencias
+3->5->8->10->11->12->13->14->16->17->18->19->21->24->25->27->30->31->32->33->34->37->38->40->41->42->43->44->45->46->47->49->50->56->57->59->60->62->64->65->66->67->69->72->74->75->78->79->80->81->82->
+knowand: numero de ocorrencias
+25->
+knowing: numero de ocorrencias
+11->23->
+knowledge: numero de ocorrencias
+2->10->34->
+known: numero de ocorrencias
+11->
+knowno: numero de ocorrencias
+21->
+knows: numero de ocorrencias
+8->35->
+knuckles: numero de ocorrencias
+31->
+label: numero de ocorrencias
+4->18->
+labelled: numero de ocorrencias
+2->
+lacie: numero de ocorrencias
+44->
+ladderwhy: numero de ocorrencias
+21->
+ladhere: numero de ocorrencias
+21->
+lady: numero de ocorrencias
+44->59->60->
+laid: numero de ocorrencias
+40->50->
+lamps: numero de ocorrencias
+3->
+land: numero de ocorrencias
+64->
+languid: numero de ocorrencias
+24->
+lap: numero de ocorrencias
+8->83->
+large: numero de ocorrencias
+1->4->7->12->14->18->20->23->24->29->31->32->33->34->39->48->50->54->57->60->71->73->75->77->81->
+larger: numero de ocorrencias
+4->6->19->22->27->74->
+largest: numero de ocorrencias
+6->
+lark: numero de ocorrencias
+68->
+lasted: numero de ocorrencias
+27->82->
+lastly: numero de ocorrencias
+84->
+late: numero de ocorrencias
+1->3->12->19->51->83->
+lately: numero de ocorrencias
+4->
+later: numero de ocorrencias
+4->68->69->
+latin: numero de ocorrencias
+10->
+latitude: numero de ocorrencias
+2->
+laugh: numero de ocorrencias
+14->
+laughed: numero de ocorrencias
+32->82->
+laughing: numero de ocorrencias
+52->62->
+laughter: numero de ocorrencias
+51->
+law: numero de ocorrencias
+15->26->
+lay: numero de ocorrencias
+22->29->48->77->
+lazily: numero de ocorrencias
+10->
+lazy: numero de ocorrencias
+59->
+leaders: numero de ocorrencias
+12->
+leading: numero de ocorrencias
+47->
+leaning: numero de ocorrencias
+33->83->
+leant: numero de ocorrencias
+23->
+leap: numero de ocorrencias
+10->
+learn: numero de ocorrencias
+8->19->40->42->61->62->
+learned: numero de ocorrencias
+61->
+learning: numero de ocorrencias
+46->
+learnt: numero de ocorrencias
+2->62->
+leastat: numero de ocorrencias
+40->
+leave: numero de ocorrencias
+5->18->36->50->59->69->74->75->79->
+leaves: numero de ocorrencias
+3->23->29->83->
+leaving: numero de ocorrencias
+59->
+led: numero de ocorrencias
+4->11->33->47->
+ledge: numero de ocorrencias
+60->
+left: numero de ocorrencias
+5->13->17->36->52->58->59->72->74->76->82->83->
+lefthand: numero de ocorrencias
+28->39->
+legs: numero de ocorrencias
+5->36->52->
+length: numero de ocorrencias
+29->
+lessen: numero de ocorrencias
+63->
+lesson: numero de ocorrencias
+16->
+lessonbook: numero de ocorrencias
+10->
+lessonbooks: numero de ocorrencias
+19->
+lessons: numero de ocorrencias
+2->8->19->42->62->63->68->
+lest: numero de ocorrencias
+18->
+let: numero de ocorrencias
+2->6->7->8->10->11->15->16->18->23->29->32->46->81->82->
+lets: numero de ocorrencias
+8->46->58->65->67->
+letter: numero de ocorrencias
+32->79->
+letters: numero de ocorrencias
+4->
+lewis: numero de ocorrencias
+1->
+licking: numero de ocorrencias
+10->
+lie: numero de ocorrencias
+49->
+life: numero de ocorrencias
+6->9->11->19->27->39->47->52->55->60->
+lifted: numero de ocorrencias
+62->
+like: numero de ocorrencias
+2->3->4->5->6->7->8->9->10->11->13->15->17->18->19->20->21->23->27->29->31->33->34->35->36->37->38->39->40->41->43->45->48->49->50->53->54->55->56->57->58->59->62->64->65->66->68->69->77->80->81->
+liked: numero de ocorrencias
+13->23->42->43->81->
+likely: numero de ocorrencias
+2->10->23->30->53->
+likes: numero de ocorrencias
+53->
+limbs: numero de ocorrencias
+26->
+line: numero de ocorrencias
+35->64->
+lines: numero de ocorrencias
+64->
+linked: numero de ocorrencias
+58->
+lips: numero de ocorrencias
+18->
+list: numero de ocorrencias
+74->76->77->
+listen: numero de ocorrencias
+2->12->19->27->31->53->83->
+listened: numero de ocorrencias
+83->
+listeners: numero de ocorrencias
+67->
+listening: numero de ocorrencias
+2->35->53->
+lit: numero de ocorrencias
+3->
+little: numero de ocorrencias
+3->4->5->6->7->8->9->10->11->16->17->18->19->20->21->22->23->25->26->27->28->29->30->31->32->33->34->35->36->37->38->41->42->43->44->46->47->48->49->51->54->56->58->60->61->63->64->65->66->67->71->72->77->78->82->83->84->
+live: numero de ocorrencias
+8->37->38->45->52->
+lived: numero de ocorrencias
+44->45->63->
+livery: numero de ocorrencias
+31->
+lives: numero de ocorrencias
+31->37->58->
+living: numero de ocorrencias
+45->61->
+lizard: numero de ocorrencias
+22->72->78->82->
+lizards: numero de ocorrencias
+83->
+lobster: numero de ocorrencias
+63->64->68->69->
+lobsters: numero de ocorrencias
+64->65->66->
+lock: numero de ocorrencias
+4->
+locked: numero de ocorrencias
+3->
+locks: numero de ocorrencias
+4->26->
+lodging: numero de ocorrencias
+9->
+london: numero de ocorrencias
+8->
+lonely: numero de ocorrencias
+17->60->
+long: numero de ocorrencias
+3->4->8->10->11->13->14->15->20->22->23->24->31->37->41->43->47->60->66->68->74->82->83->84->
+longed: numero de ocorrencias
+4->69->
+longer: numero de ocorrencias
+3->21->57->
+longitude: numero de ocorrencias
+2->
+look: numero de ocorrencias
+2->4->7->8->17->20->23->24->36->48->52->53->54->55->57->59->65->71->76->78->81->
+looked: numero de ocorrencias
+1->2->3->4->6->9->10->14->17->23->24->29->36->37->38->40->41->47->48->49->51->54->58->60->61->63->64->66->68->71->72->73->76->78->79->80->
+looking: numero de ocorrencias
+14->15->16->17->23->28->30->31->32->38->40->41->49->50->52->53->54->55->71->72->73->75->77->81->82->83->
+lookingglass: numero de ocorrencias
+18->
+lookout: numero de ocorrencias
+30->
+loose: numero de ocorrencias
+21->
+lory: numero de ocorrencias
+11->12->16->17->
+lose: numero de ocorrencias
+16->
+losing: numero de ocorrencias
+27->
+lost: numero de ocorrencias
+3->17->28->
+loud: numero de ocorrencias
+21->22->36->50->58->72->
+louder: numero de ocorrencias
+33->
+loudly: numero de ocorrencias
+31->50->82->
+love: numero de ocorrencias
+7->56->
+loveliest: numero de ocorrencias
+4->
+lovely: numero de ocorrencias
+5->22->
+loving: numero de ocorrencias
+84->
+low: numero de ocorrencias
+3->4->7->10->11->32->48->51->53->58->59->76->79->
+lower: numero de ocorrencias
+75->
+lowing: numero de ocorrencias
+84->
+lowspirited: numero de ocorrencias
+17->
+luckily: numero de ocorrencias
+14->19->
+lullaby: numero de ocorrencias
+35->
+lying: numero de ocorrencias
+6->7->9->19->49->59->83->
+m: numero de ocorrencias
+46->47->58->
+ma: numero de ocorrencias
+10->16->
+maam: numero de ocorrencias
+3->
+mabel: numero de ocorrencias
+8->
+machines: numero de ocorrencias
+9->
+mad: numero de ocorrencias
+37->38->39->43->64->
+madat: numero de ocorrencias
+38->
+magic: numero de ocorrencias
+19->
+magpie: numero de ocorrencias
+17->
+majesty: numero de ocorrencias
+49->50->51->58->73->74->75->76->78->79->80->
+make: numero de ocorrencias
+2->5->9->12->16->18->22->28->34->39->40->43->50->52->54->56->58->68->72->84->
+makes: numero de ocorrencias
+6->36->55->56->66->77->80->
+making: numero de ocorrencias
+1->11->19->23->25->32->45->78->
+mallets: numero de ocorrencias
+52->
+man: numero de ocorrencias
+26->74->75->80->
+manage: numero de ocorrencias
+3->6->26->43->47->63->
+managed: numero de ocorrencias
+2->13->23->28->
+managing: numero de ocorrencias
+52->
+manner: numero de ocorrencias
+46->49->
+manners: numero de ocorrencias
+33->
+maps: numero de ocorrencias
+2->
+march: numero de ocorrencias
+37->38->39->40->41->42->43->44->45->46->47->73->74->75->83->
+marched: numero de ocorrencias
+50->
+marchjust: numero de ocorrencias
+43->
+mark: numero de ocorrencias
+65->72->82->
+marked: numero de ocorrencias
+4->6->13->69->
+marmalade: numero de ocorrencias
+2->
+mary: numero de ocorrencias
+18->20->
+master: numero de ocorrencias
+21->60->62->
+matter: numero de ocorrencias
+3->13->30->36->37->54->78->80->
+matters: numero de ocorrencias
+30->65->
+maybe: numero de ocorrencias
+33->
+maynt: numero de ocorrencias
+61->
+meal: numero de ocorrencias
+83->
+mean: numero de ocorrencias
+16->24->40->42->45->66->67->
+meaning: numero de ocorrencias
+13->30->42->71->81->
+means: numero de ocorrencias
+12->56->78->
+meanstomakeanythingprettier: numero de ocorrencias
+62->
+meant: numero de ocorrencias
+35->51->75->78->80->
+measure: numero de ocorrencias
+9->
+meat: numero de ocorrencias
+69->
+meekly: numero de ocorrencias
+41->74->
+meet: numero de ocorrencias
+12->18->
+meeting: numero de ocorrencias
+13->
+melancholy: numero de ocorrencias
+13->17->26->70->76->78->
+memorandum: numero de ocorrencias
+73->
+memory: numero de ocorrencias
+47->
+mentioned: numero de ocorrencias
+17->26->80->
+mercia: numero de ocorrencias
+12->
+merely: numero de ocorrencias
+28->58->
+merrily: numero de ocorrencias
+49->
+messages: numero de ocorrencias
+18->
+met: numero de ocorrencias
+15->24->55->
+mice: numero de ocorrencias
+3->17->19->
+miceoh: numero de ocorrencias
+10->
+middle: numero de ocorrencias
+3->12->19->22->33->58->71->
+mile: numero de ocorrencias
+79->
+miles: numero de ocorrencias
+2->79->
+milk: numero de ocorrencias
+3->
+milkjug: numero de ocorrencias
+46->
+millennium: numero de ocorrencias
+1->
+mind: numero de ocorrencias
+1->8->17->25->27->34->36->39->77->
+minded: numero de ocorrencias
+34->
+minding: numero de ocorrencias
+56->
+minea: numero de ocorrencias
+53->
+mineral: numero de ocorrencias
+57->
+minute: numero de ocorrencias
+5->18->19->22->28->30->31->36->38->41->45->50->52->53->63->
+minutes: numero de ocorrencias
+5->11->19->25->26->27->31->60->77->81->
+mischief: numero de ocorrencias
+80->
+miserable: numero de ocorrencias
+75->84->
+miss: numero de ocorrencias
+3->18->48->49->
+missed: numero de ocorrencias
+35->54->
+mistake: numero de ocorrencias
+18->36->48->
+mixed: numero de ocorrencias
+4->84->
+mock: numero de ocorrencias
+55->59->60->61->62->63->64->65->66->67->68->69->70->84->
+moderate: numero de ocorrencias
+12->
+modern: numero de ocorrencias
+62->
+moment: numero de ocorrencias
+2->3->6->7->9->17->18->20->22->23->28->29->32->34->49->50->54->55->58->73->77->78->
+moments: numero de ocorrencias
+33->58->
+month: numero de ocorrencias
+41->
+moon: numero de ocorrencias
+47->
+moral: numero de ocorrencias
+56->57->58->
+morals: numero de ocorrencias
+56->
+morcar: numero de ocorrencias
+12->
+moreas: numero de ocorrencias
+19->
+morning: numero de ocorrencias
+7->15->24->42->67->
+morsel: numero de ocorrencias
+28->
+mournful: numero de ocorrencias
+44->
+mournfully: numero de ocorrencias
+43->
+mouse: numero de ocorrencias
+3->9->10->11->12->14->15->16->17->18->83->
+mousea: numero de ocorrencias
+10->
+mouseo: numero de ocorrencias
+10->
+mouseof: numero de ocorrencias
+10->
+mouses: numero de ocorrencias
+15->
+mouseto: numero de ocorrencias
+10->
+mousetraps: numero de ocorrencias
+47->
+mouth: numero de ocorrencias
+23->24->25->28->51->52->75->78->
+mouths: numero de ocorrencias
+66->67->
+mouthsand: numero de ocorrencias
+66->
+moved: numero de ocorrencias
+17->46->50->82->
+moving: numero de ocorrencias
+22->29->44->
+muchness: numero de ocorrencias
+47->
+muchnessdid: numero de ocorrencias
+47->
+muchnessyou: numero de ocorrencias
+47->
+muddle: numero de ocorrencias
+72->
+multiplication: numero de ocorrencias
+8->
+murder: numero de ocorrencias
+36->
+murdering: numero de ocorrencias
+43->
+muscular: numero de ocorrencias
+26->
+mushroom: numero de ocorrencias
+23->24->28->31->39->47->
+music: numero de ocorrencias
+42->61->
+mustard: numero de ocorrencias
+57->
+mustardmine: numero de ocorrencias
+57->
+muttered: numero de ocorrencias
+33->41->
+muttering: numero de ocorrencias
+7->17->82->
+myself: numero de ocorrencias
+6->24->42->54->62->
+mystery: numero de ocorrencias
+62->
+names: numero de ocorrencias
+44->71->
+narrow: numero de ocorrencias
+9->21->
+nasty: numero de ocorrencias
+10->
+natural: numero de ocorrencias
+1->11->38->68->
+near: numero de ocorrencias
+2->7->11->18->23->31->32->48->50->57->71->76->78->
+nearer: numero de ocorrencias
+9->39->48->60->65->
+nearly: numero de ocorrencias
+9->23->32->34->38->60->71->76->79->
+neat: numero de ocorrencias
+18->
+neatly: numero de ocorrencias
+8->22->
+neck: numero de ocorrencias
+4->19->29->30->31->52->
+neednt: numero de ocorrencias
+49->61->81->
+needs: numero de ocorrencias
+30->
+neighbour: numero de ocorrencias
+72->
+neighbouring: numero de ocorrencias
+83->
+nervous: numero de ocorrencias
+5->49->67->73->74->
+nest: numero de ocorrencias
+31->
+neverending: numero de ocorrencias
+83->
+new: numero de ocorrencias
+3->6->30->56->63->
+newspapers: numero de ocorrencias
+75->
+nibbled: numero de ocorrencias
+28->39->
+nibbling: numero de ocorrencias
+31->47->
+nice: numero de ocorrencias
+2->4->10->11->72->
+nicely: numero de ocorrencias
+10->52->
+night: numero de ocorrencias
+7->30->34->
+nightair: numero de ocorrencias
+17->
+nile: numero de ocorrencias
+8->
+nodded: numero de ocorrencias
+53->
+noise: numero de ocorrencias
+14->32->
+noises: numero de ocorrencias
+84->
+nonsense: numero de ocorrencias
+7->16->50->55->68->74->82->
+normans: numero de ocorrencias
+12->
+northumbria: numero de ocorrencias
+12->
+nose: numero de ocorrencias
+27->32->34->36->42->68->69->
+notebook: numero de ocorrencias
+78->79->
+notice: numero de ocorrencias
+12->24->34->46->47->
+noticed: numero de ocorrencias
+2->4->18->22->31->47->52->53->
+noticing: numero de ocorrencias
+49->
+notion: numero de ocorrencias
+10->65->81->
+nowbut: numero de ocorrencias
+21->
+nowdont: numero de ocorrencias
+21->
+number: numero de ocorrencias
+9->21->30->59->79->
+nurse: numero de ocorrencias
+18->35->
+nurseand: numero de ocorrencias
+10->
+nursing: numero de ocorrencias
+33->35->36->
+o: numero de ocorrencias
+10->
+obliged: numero de ocorrencias
+67->71->72->
+oblong: numero de ocorrencias
+49->
+obstacle: numero de ocorrencias
+81->
+occasional: numero de ocorrencias
+60->
+occasionally: numero de ocorrencias
+33->
+occurred: numero de ocorrencias
+1->24->
+oclock: numero de ocorrencias
+41->42->44->
+odd: numero de ocorrencias
+7->
+offend: numero de ocorrencias
+46->
+offended: numero de ocorrencias
+10->11->13->14->16->28->45->67->69->82->
+offer: numero de ocorrencias
+12->40->
+officer: numero de ocorrencias
+76->
+officers: numero de ocorrencias
+74->75->76->
+oh: numero de ocorrencias
+1->3->4->6->7->8->10->11->16->17->19->21->23->27->29->33->34->35->37->51->57->58->65->66->69->77->83->
+ointmentone: numero de ocorrencias
+26->
+old: numero de ocorrencias
+11->16->17->19->21->22->26->27->55->60->61->62->68->70->
+older: numero de ocorrencias
+11->19->
+oldest: numero de ocorrencias
+79->
+onebut: numero de ocorrencias
+19->
+ones: numero de ocorrencias
+7->14->
+oneself: numero de ocorrencias
+53->
+onions: numero de ocorrencias
+48->
+open: numero de ocorrencias
+4->20->28->31->36->78->84->
+opened: numero de ocorrencias
+4->6->20->31->32->33->40->44->67->79->
+opening: numero de ocorrencias
+6->24->42->
+opinion: numero de ocorrencias
+45->
+opportunity: numero de ocorrencias
+2->16->23->30->33->34->54->72->
+opposite: numero de ocorrencias
+49->
+orange: numero de ocorrencias
+2->
+order: numero de ocorrencias
+32->64->68->
+ordered: numero de ocorrencias
+19->59->60->
+ordering: numero de ocorrencias
+18->83->
+ornamented: numero de ocorrencias
+49->
+otherbill: numero de ocorrencias
+21->
+ou: numero de ocorrencias
+10->
+ought: numero de ocorrencias
+1->7->13->19->23->25->37->48->49->61->73->79->
+outoftheway: numero de ocorrencias
+4->6->10->
+outside: numero de ocorrencias
+19->22->76->79->
+overcome: numero de ocorrencias
+78->
+overhead: numero de ocorrencias
+3->
+owl: numero de ocorrencias
+69->
+oyster: numero de ocorrencias
+16->
+pace: numero de ocorrencias
+74->
+pack: numero de ocorrencias
+49->50->71->83->
+paint: numero de ocorrencias
+48->
+painting: numero de ocorrencias
+48->
+pair: numero de ocorrencias
+6->7->17->18->
+pairs: numero de ocorrencias
+18->
+pale: numero de ocorrencias
+11->65->73->79->
+panted: numero de ocorrencias
+70->
+panther: numero de ocorrencias
+69->
+panting: numero de ocorrencias
+13->23->
+paper: numero de ocorrencias
+4->79->81->
+parchment: numero de ocorrencias
+71->72->
+pardon: numero de ocorrencias
+10->12->16->72->77->
+pardoned: numero de ocorrencias
+59->
+paris: numero de ocorrencias
+8->
+particular: numero de ocorrencias
+17->27->53->
+particularhere: numero de ocorrencias
+21->
+partner: numero de ocorrencias
+64->
+partners: numero de ocorrencias
+64->
+parts: numero de ocorrencias
+52->
+party: numero de ocorrencias
+11->13->14->17->41->55->
+pass: numero de ocorrencias
+71->
+passage: numero de ocorrencias
+3->4->47->
+passed: numero de ocorrencias
+2->53->65->69->
+passing: numero de ocorrencias
+54->
+passion: numero de ocorrencias
+11->52->54->
+passionate: numero de ocorrencias
+10->
+past: numero de ocorrencias
+2->
+pat: numero de ocorrencias
+20->
+patience: numero de ocorrencias
+16->
+patiently: numero de ocorrencias
+28->60->
+patriotic: numero de ocorrencias
+12->
+patted: numero de ocorrencias
+14->
+pattering: numero de ocorrencias
+7->17->20->
+pattern: numero de ocorrencias
+50->
+pause: numero de ocorrencias
+33->57->
+paused: numero de ocorrencias
+13->
+paw: numero de ocorrencias
+23->37->
+paws: numero de ocorrencias
+10->17->62->
+pebbles: numero de ocorrencias
+22->
+peeped: numero de ocorrencias
+1->24->32->
+peeping: numero de ocorrencias
+51->
+peering: numero de ocorrencias
+22->
+pegs: numero de ocorrencias
+2->
+pence: numero de ocorrencias
+73->
+pencil: numero de ocorrencias
+72->
+pencils: numero de ocorrencias
+78->
+pennyworth: numero de ocorrencias
+70->
+people: numero de ocorrencias
+2->4->5->18->37->49->51->52->55->56->76->
+pepper: numero de ocorrencias
+31->33->35->55->76->
+pepperbox: numero de ocorrencias
+76->
+perfectly: numero de ocorrencias
+26->28->33->67->
+permitted: numero de ocorrencias
+69->
+persisted: numero de ocorrencias
+69->78->
+person: numero de ocorrencias
+5->8->12->67->
+personal: numero de ocorrencias
+40->45->
+persons: numero de ocorrencias
+79->
+pet: numero de ocorrencias
+17->
+picked: numero de ocorrencias
+23->47->79->
+picking: numero de ocorrencias
+1->77->
+picture: numero de ocorrencias
+59->
+pictured: numero de ocorrencias
+84->
+pictures: numero de ocorrencias
+1->2->13->
+pie: numero de ocorrencias
+69->
+piece: numero de ocorrencias
+47->72->73->81->
+pieces: numero de ocorrencias
+31->32->
+piecrust: numero de ocorrencias
+69->
+pig: numero de ocorrencias
+31->34->36->38->39->
+pigbaby: numero de ocorrencias
+83->
+pigeon: numero de ocorrencias
+29->30->31->
+pigs: numero de ocorrencias
+36->58->
+pinch: numero de ocorrencias
+43->77->
+pinched: numero de ocorrencias
+44->47->
+pineapple: numero de ocorrencias
+4->
+pink: numero de ocorrencias
+1->
+piteous: numero de ocorrencias
+28->
+pitied: numero de ocorrencias
+60->
+pity: numero de ocorrencias
+16->51->
+place: numero de ocorrencias
+21->31->38->46->83->84->
+placed: numero de ocorrencias
+13->
+places: numero de ocorrencias
+51->
+placesall: numero de ocorrencias
+77->
+plainly: numero de ocorrencias
+5->
+plan: numero de ocorrencias
+22->31->63->
+planning: numero de ocorrencias
+6->
+plate: numero de ocorrencias
+18->32->46->
+plates: numero de ocorrencias
+34->83->
+play: numero de ocorrencias
+8->23->32->35->38->51->53->
+played: numero de ocorrencias
+52->
+players: numero de ocorrencias
+52->54->58->59->
+playing: numero de ocorrencias
+5->58->
+pleaded: numero de ocorrencias
+16->28->44->
+pleasant: numero de ocorrencias
+55->
+pleasanter: numero de ocorrencias
+19->
+pleased: numero de ocorrencias
+34->37->38->56->57->71->
+pleases: numero de ocorrencias
+35->
+pleasing: numero de ocorrencias
+29->
+pleasure: numero de ocorrencias
+1->84->
+plenty: numero de ocorrencias
+2->39->
+pocket: numero de ocorrencias
+14->41->47->69->
+pointed: numero de ocorrencias
+18->
+pointing: numero de ocorrencias
+14->43->49->82->
+poison: numero de ocorrencias
+4->
+poker: numero de ocorrencias
+4->
+poky: numero de ocorrencias
+8->
+politely: numero de ocorrencias
+12->24->34->42->49->57->
+pool: numero de ocorrencias
+6->7->9->10->11->18->84->
+poolshe: numero de ocorrencias
+83->
+poor: numero de ocorrencias
+4->5->6->7->8->9->10->16->17->19->22->23->28->29->35->36->46->61->72->74->75->78->
+pop: numero de ocorrencias
+1->
+pope: numero de ocorrencias
+12->
+porpoise: numero de ocorrencias
+65->67->
+position: numero de ocorrencias
+13->69->
+positively: numero de ocorrencias
+11->
+possible: numero de ocorrencias
+20->
+possibly: numero de ocorrencias
+5->22->32->
+pounds: numero de ocorrencias
+11->
+pour: numero de ocorrencias
+8->
+poured: numero de ocorrencias
+42->
+powdered: numero de ocorrencias
+31->
+practice: numero de ocorrencias
+2->
+pray: numero de ocorrencias
+26->57->
+precious: numero de ocorrencias
+34->
+present: numero de ocorrencias
+58->
+presentat: numero de ocorrencias
+24->
+presented: numero de ocorrencias
+14->
+presently: numero de ocorrencias
+2->20->
+presents: numero de ocorrencias
+7->58->
+pressed: numero de ocorrencias
+13->20->28->
+pressing: numero de ocorrencias
+19->
+pretend: numero de ocorrencias
+5->
+pretending: numero de ocorrencias
+5->
+pretexts: numero de ocorrencias
+17->
+pretty: numero de ocorrencias
+64->
+prevent: numero de ocorrencias
+36->
+printed: numero de ocorrencias
+4->
+prison: numero de ocorrencias
+55->
+prisoner: numero de ocorrencias
+79->
+prisoners: numero de ocorrencias
+79->
+prize: numero de ocorrencias
+14->
+prizes: numero de ocorrencias
+13->14->
+proceed: numero de ocorrencias
+12->77->
+procession: numero de ocorrencias
+49->50->51->
+processions: numero de ocorrencias
+49->
+produced: numero de ocorrencias
+22->
+producing: numero de ocorrencias
+32->
+promise: numero de ocorrencias
+46->
+promised: numero de ocorrencias
+14->
+promising: numero de ocorrencias
+25->
+pronounced: numero de ocorrencias
+20->
+proper: numero de ocorrencias
+36->77->
+proposal: numero de ocorrencias
+44->
+prosecute: numero de ocorrencias
+15->
+protection: numero de ocorrencias
+50->
+proud: numero de ocorrencias
+61->71->
+prove: numero de ocorrencias
+80->
+proved: numero de ocorrencias
+20->38->
+proves: numero de ocorrencias
+80->
+provoking: numero de ocorrencias
+52->
+puffed: numero de ocorrencias
+25->
+pulled: numero de ocorrencias
+14->
+pulling: numero de ocorrencias
+21->
+pun: numero de ocorrencias
+82->
+punching: numero de ocorrencias
+63->
+punished: numero de ocorrencias
+9->
+puppy: numero de ocorrencias
+23->
+puppys: numero de ocorrencias
+23->
+purple: numero de ocorrencias
+82->
+purpose: numero de ocorrencias
+67->
+purring: numero de ocorrencias
+10->38->
+push: numero de ocorrencias
+80->
+puss: numero de ocorrencias
+37->
+putting: numero de ocorrencias
+8->57->71->
+puzzle: numero de ocorrencias
+8->
+puzzled: numero de ocorrencias
+29->42->45->52->66->69->73->80->
+puzzling: numero de ocorrencias
+8->15->25->31->
+quadrille: numero de ocorrencias
+63->68->69->
+quarrel: numero de ocorrencias
+53->
+quarrelled: numero de ocorrencias
+43->
+quarrelling: numero de ocorrencias
+52->58->
+queen: numero de ocorrencias
+32->35->38->43->48->49->50->51->52->53->54->55->58->59->71->72->73->74->76->77->79->80->82->83->
+queens: numero de ocorrencias
+48->49->51->53->54->55->58->84->
+queer: numero de ocorrencias
+7->9->18->25->38->68->83->84->
+queerest: numero de ocorrencias
+80->
+queerlooking: numero de ocorrencias
+11->
+queershaped: numero de ocorrencias
+35->
+question: numero de ocorrencias
+3->8->11->12->13->17->23->25->28->33->37->45->51->54->61->
+questions: numero de ocorrencias
+27->45->62->
+questionshow: numero de ocorrencias
+32->
+quick: numero de ocorrencias
+18->44->
+quicker: numero de ocorrencias
+16->
+quickly: numero de ocorrencias
+72->77->
+quiet: numero de ocorrencias
+10->67->
+quietly: numero de ocorrencias
+24->36->38->50->64->
+quite: numero de ocorrencias
+1->5->6->10->11->13->16->18->19->20->22->23->27->30->31->33->34->36->39->42->45->46->54->56->57->59->63->71->72->73->77->78->
+quiver: numero de ocorrencias
+10->
+rabbit: numero de ocorrencias
+1->3->7->17->18->20->22->49->51->67->71->72->76->77->78->79->80->83->
+rabbithole: numero de ocorrencias
+1->2->
+rabbitholeand: numero de ocorrencias
+19->
+rabbits: numero de ocorrencias
+9->19->21->22->
+rabbitspat: numero de ocorrencias
+20->
+race: numero de ocorrencias
+13->
+racecourse: numero de ocorrencias
+13->
+railway: numero de ocorrencias
+9->
+raised: numero de ocorrencias
+39->51->
+raising: numero de ocorrencias
+30->
+ran: numero de ocorrencias
+1->9->18->22->23->50->53->55->70->83->
+rapidly: numero de ocorrencias
+9->28->
+rapped: numero de ocorrencias
+31->
+rate: numero de ocorrencias
+4->8->10->20->32->47->75->79->
+rathole: numero de ocorrencias
+4->
+rats: numero de ocorrencias
+11->
+rattle: numero de ocorrencias
+83->
+rattling: numero de ocorrencias
+22->84->
+raven: numero de ocorrencias
+40->
+ravens: numero de ocorrencias
+41->
+raving: numero de ocorrencias
+38->39->
+raw: numero de ocorrencias
+31->
+reach: numero de ocorrencias
+5->6->21->34->
+reaching: numero de ocorrencias
+7->
+read: numero de ocorrencias
+4->19->53->71->72->75->77->78->80->
+readily: numero de ocorrencias
+41->
+reading: numero de ocorrencias
+1->76->83->
+ready: numero de ocorrencias
+7->12->16->17->18->35->57->61->
+real: numero de ocorrencias
+18->36->60->
+realitythe: numero de ocorrencias
+84->
+really: numero de ocorrencias
+4->10->15->17->18->33->47->61->65->67->77->80->
+rearing: numero de ocorrencias
+27->
+reason: numero de ocorrencias
+20->25->26->44->57->63->66->
+reasonable: numero de ocorrencias
+74->
+reasons: numero de ocorrencias
+32->
+received: numero de ocorrencias
+69->
+recognised: numero de ocorrencias
+49->
+recovered: numero de ocorrencias
+63->78->
+red: numero de ocorrencias
+48->
+redhot: numero de ocorrencias
+4->
+reduced: numero de ocorrencias
+73->
+reedsthe: numero de ocorrencias
+84->
+reeling: numero de ocorrencias
+62->
+refreshments: numero de ocorrencias
+71->
+refused: numero de ocorrencias
+11->
+regular: numero de ocorrencias
+61->79->
+relief: numero de ocorrencias
+61->77->
+relieved: numero de ocorrencias
+36->
+remain: numero de ocorrencias
+74->
+remained: numero de ocorrencias
+6->28->39->
+remaining: numero de ocorrencias
+50->
+remark: numero de ocorrencias
+33->34->41->42->46->55->56->57->63->
+remarkable: numero de ocorrencias
+1->17->
+remarked: numero de ocorrencias
+32->37->40->41->45->53->57->63->75->
+remarking: numero de ocorrencias
+17->28->58->
+remarks: numero de ocorrencias
+25->40->45->
+remedies: numero de ocorrencias
+13->
+remember: numero de ocorrencias
+3->4->5->7->11->26->41->49->54->56->75->83->
+remembered: numero de ocorrencias
+5->9->10->30->31->
+remembering: numero de ocorrencias
+84->
+reminding: numero de ocorrencias
+77->
+removed: numero de ocorrencias
+54->
+repeat: numero de ocorrencias
+8->26->68->70->
+repeated: numero de ocorrencias
+29->32->45->54->66->68->69->74->77->
+repeating: numero de ocorrencias
+33->68->69->
+replied: numero de ocorrencias
+12->14->17->24->26->27->39->40->41->42->43->45->57->62->65->66->67->69->74->76->
+reply: numero de ocorrencias
+16->36->49->51->71->
+resource: numero de ocorrencias
+19->
+respect: numero de ocorrencias
+37->
+respectable: numero de ocorrencias
+5->
+respectful: numero de ocorrencias
+78->
+rest: numero de ocorrencias
+13->23->27->39->50->54->55->56->72->81->
+resting: numero de ocorrencias
+39->58->
+result: numero de ocorrencias
+29->
+retire: numero de ocorrencias
+64->
+returned: numero de ocorrencias
+81->82->
+returning: numero de ocorrencias
+7->
+rich: numero de ocorrencias
+70->
+riddle: numero de ocorrencias
+42->
+riddles: numero de ocorrencias
+42->
+riddlesi: numero de ocorrencias
+40->
+ridge: numero de ocorrencias
+52->
+ridges: numero de ocorrencias
+52->
+ridiculous: numero de ocorrencias
+74->
+right: numero de ocorrencias
+2->3->5->7->8->10->22->23->26->27->31->33->36->37->39->47->48->51->56->57->58->74->78->82->
+righthand: numero de ocorrencias
+28->31->
+rightly: numero de ocorrencias
+71->
+ring: numero de ocorrencias
+12->14->
+ringlets: numero de ocorrencias
+8->
+riper: numero de ocorrencias
+84->
+rippling: numero de ocorrencias
+84->
+rise: numero de ocorrencias
+29->
+rises: numero de ocorrencias
+68->
+rising: numero de ocorrencias
+13->
+roared: numero de ocorrencias
+51->
+roast: numero de ocorrencias
+4->
+rock: numero de ocorrencias
+60->
+rome: numero de ocorrencias
+8->
+romeno: numero de ocorrencias
+8->
+roof: numero de ocorrencias
+3->7->21->22->39->78->
+room: numero de ocorrencias
+18->19->28->35->39->74->
+roots: numero de ocorrencias
+29->
+ropewill: numero de ocorrencias
+21->
+rose: numero de ocorrencias
+83->
+roses: numero de ocorrencias
+48->50->
+rosetree: numero de ocorrencias
+48->49->50->
+roughly: numero de ocorrencias
+35->
+round: numero de ocorrencias
+3->4->7->11->12->13->14->19->20->23->28->31->34->37->40->43->44->48->49->52->54->55->56->57->65->71->72->75->82->
+row: numero de ocorrencias
+3->9->
+royal: numero de ocorrencias
+49->50->
+rubbed: numero de ocorrencias
+59->
+rubbing: numero de ocorrencias
+46->81->
+rude: numero de ocorrencias
+40->56->
+rudeness: numero de ocorrencias
+47->
+rule: numero de ocorrencias
+49->56->78->79->
+rules: numero de ocorrencias
+4->53->
+rumbling: numero de ocorrencias
+21->
+run: numero de ocorrencias
+18->23->32->83->
+running: numero de ocorrencias
+13->23->31->51->63->67->77->
+rush: numero de ocorrencias
+22->23->
+rushed: numero de ocorrencias
+23->
+rustled: numero de ocorrencias
+83->
+rustling: numero de ocorrencias
+84->
+sad: numero de ocorrencias
+14->15->60->
+sadly: numero de ocorrencias
+3->14->64->65->81->
+safe: numero de ocorrencias
+22->59->
+sage: numero de ocorrencias
+26->
+said: numero de ocorrencias
+2->4->5->6->7->8->9->10->11->12->13->14->15->16->17->18->19->20->21->22->23->24->25->26->27->28->29->30->31->32->33->34->35->36->37->38->39->40->41->42->43->44->45->46->47->48->49->50->51->52->53->54->55->56->57->58->59->60->61->62->63->64->65->66->67->68->69->71->72->73->74->75->76->77->78->79->80->81->82->83->
+salmon: numero de ocorrencias
+64->
+salt: numero de ocorrencias
+9->14->
+sand: numero de ocorrencias
+9->
+sands: numero de ocorrencias
+68->
+sang: numero de ocorrencias
+35->65->
+sat: numero de ocorrencias
+5->7->12->13->14->23->39->41->59->60->61->64->68->75->83->84->
+saucepan: numero de ocorrencias
+34->
+saucepans: numero de ocorrencias
+34->
+saucer: numero de ocorrencias
+3->
+savage: numero de ocorrencias
+7->43->55->59->
+save: numero de ocorrencias
+19->
+saves: numero de ocorrencias
+81->
+saw: numero de ocorrencias
+2->4->20->34->37->39->47->53->58->59->60->67->78->
+say: numero de ocorrencias
+1->2->3->4->7->8->11->13->14->20->22->25->26->29->30->34->36->39->40->41->42->45->46->47->48->51->55->57->58->59->62->63->67->68->71->75->
+saying: numero de ocorrencias
+3->8->14->16->19->21->29->32->36->39->44->60->68->
+says: numero de ocorrencias
+11->21->60->
+saythats: numero de ocorrencias
+40->
+scale: numero de ocorrencias
+8->
+scaly: numero de ocorrencias
+65->
+school: numero de ocorrencias
+60->61->68->
+schoolroom: numero de ocorrencias
+2->
+scolded: numero de ocorrencias
+5->
+scrambling: numero de ocorrencias
+21->
+scratching: numero de ocorrencias
+21->
+scream: numero de ocorrencias
+51->83->
+screamed: numero de ocorrencias
+29->50->64->
+screaming: numero de ocorrencias
+54->
+scroll: numero de ocorrencias
+71->72->
+sea: numero de ocorrencias
+9->29->60->61->63->64->65->66->67->
+seals: numero de ocorrencias
+64->
+seaography: numero de ocorrencias
+62->
+search: numero de ocorrencias
+54->
+seashore: numero de ocorrencias
+64->
+seaside: numero de ocorrencias
+9->
+seated: numero de ocorrencias
+71->
+second: numero de ocorrencias
+4->22->35->74->
+secondly: numero de ocorrencias
+32->56->
+secret: numero de ocorrencias
+81->
+seehow: numero de ocorrencias
+23->
+seeing: numero de ocorrencias
+37->
+seen: numero de ocorrencias
+1->3->5->10->30->38->39->52->59->66->75->
+seeneverything: numero de ocorrencias
+18->
+seldom: numero de ocorrencias
+5->
+sell: numero de ocorrencias
+26->73->
+send: numero de ocorrencias
+52->
+sending: numero de ocorrencias
+7->18->
+sends: numero de ocorrencias
+17->
+sensation: numero de ocorrencias
+17->73->
+sense: numero de ocorrencias
+22->32->56->
+sent: numero de ocorrencias
+73->80->
+sentence: numero de ocorrencias
+10->51->54->59->82->
+sentenced: numero de ocorrencias
+59->
+series: numero de ocorrencias
+23->
+seriously: numero de ocorrencias
+36->
+serpent: numero de ocorrencias
+29->30->
+serpents: numero de ocorrencias
+29->30->
+set: numero de ocorrencias
+6->22->23->28->31->34->36->39->63->64->78->79->81->
+setting: numero de ocorrencias
+83->
+settle: numero de ocorrencias
+54->
+settled: numero de ocorrencias
+31->52->77->
+settling: numero de ocorrencias
+54->
+seven: numero de ocorrencias
+8->48->
+severely: numero de ocorrencias
+5->16->35->49->
+severity: numero de ocorrencias
+40->
+sh: numero de ocorrencias
+45->
+shade: numero de ocorrencias
+58->
+shake: numero de ocorrencias
+35->
+shakespeare: numero de ocorrencias
+13->
+shaking: numero de ocorrencias
+29->41->63->
+shall: numero de ocorrencias
+1->2->3->6->8->9->16->17->19->32->33->40->44->52->56->57->59->65->69->76->80->
+shant: numero de ocorrencias
+6->19->21->50->76->79->
+shape: numero de ocorrencias
+13->
+shaped: numero de ocorrencias
+39->49->
+share: numero de ocorrencias
+69->
+shared: numero de ocorrencias
+83->
+sharing: numero de ocorrencias
+69->
+shark: numero de ocorrencias
+68->
+sharks: numero de ocorrencias
+68->
+sharp: numero de ocorrencias
+21->23->29->56->58->
+sharply: numero de ocorrencias
+5->16->58->74->
+shed: numero de ocorrencias
+17->55->
+shedding: numero de ocorrencias
+7->
+sheepbells: numero de ocorrencias
+84->
+shell: numero de ocorrencias
+3->17->
+shelves: numero de ocorrencias
+2->
+shepherd: numero de ocorrencias
+84->
+shes: numero de ocorrencias
+8->10->17->51->53->55->
+shifting: numero de ocorrencias
+73->
+shilling: numero de ocorrencias
+26->
+shillings: numero de ocorrencias
+73->
+shinglewill: numero de ocorrencias
+65->
+shining: numero de ocorrencias
+8->
+shiny: numero de ocorrencias
+66->
+shiver: numero de ocorrencias
+12->
+shock: numero de ocorrencias
+78->
+shoes: numero de ocorrencias
+6->66->67->74->76->
+shook: numero de ocorrencias
+16->20->26->28->42->43->74->81->
+shore: numero de ocorrencias
+11->65->
+short: numero de ocorrencias
+14->23->25->52->
+shorter: numero de ocorrencias
+28->31->
+shoulder: numero de ocorrencias
+41->51->56->
+shoulders: numero de ocorrencias
+4->29->72->
+shouldnt: numero de ocorrencias
+19->31->41->43->47->
+shouted: numero de ocorrencias
+22->51->58->64->82->
+shouting: numero de ocorrencias
+52->58->
+shower: numero de ocorrencias
+22->34->
+showing: numero de ocorrencias
+2->34->
+shriek: numero de ocorrencias
+20->30->47->83->84->
+shrieked: numero de ocorrencias
+76->
+shrieks: numero de ocorrencias
+21->
+shrill: numero de ocorrencias
+10->50->77->83->84->
+shrimp: numero de ocorrencias
+67->
+shrink: numero de ocorrencias
+5->
+shrinking: numero de ocorrencias
+9->22->28->
+shut: numero de ocorrencias
+4->9->23->66->79->
+shutting: numero de ocorrencias
+4->5->
+shy: numero de ocorrencias
+21->
+shyly: numero de ocorrencias
+24->
+sides: numero de ocorrencias
+2->24->28->44->
+sigh: numero de ocorrencias
+44->60->61->62->
+sighed: numero de ocorrencias
+16->41->42->63->70->
+sighing: numero de ocorrencias
+14->60->62->
+sight: numero de ocorrencias
+3->6->16->28->39->53->54->59->76->
+sign: numero de ocorrencias
+80->
+signed: numero de ocorrencias
+80->
+signifies: numero de ocorrencias
+78->
+signify: numero de ocorrencias
+8->
+silence: numero de ocorrencias
+12->13->20->21->22->24->27->36->41->60->72->78->82->
+silent: numero de ocorrencias
+30->41->47->50->51->54->61->
+simple: numero de ocorrencias
+4->61->84->
+simpleton: numero de ocorrencias
+62->
+simply: numero de ocorrencias
+14->22->
+simplynever: numero de ocorrencias
+57->
+sing: numero de ocorrencias
+43->65->69->70->
+singers: numero de ocorrencias
+74->76->
+singing: numero de ocorrencias
+35->43->
+sink: numero de ocorrencias
+61->
+sir: numero de ocorrencias
+7->15->24->26->27->60->
+sister: numero de ocorrencias
+1->83->84->
+sisters: numero de ocorrencias
+44->83->
+sistersthey: numero de ocorrencias
+46->
+sit: numero de ocorrencias
+11->12->32->33->40->60->76->78->
+sits: numero de ocorrencias
+10->
+sitting: numero de ocorrencias
+1->24->32->33->37->38->39->60->74->
+sixpence: numero de ocorrencias
+81->
+sixteenth: numero de ocorrencias
+73->
+size: numero de ocorrencias
+5->6->20->22->23->26->27->31->82->
+sizes: numero de ocorrencias
+24->
+skimming: numero de ocorrencias
+32->
+skirt: numero de ocorrencias
+77->
+skurried: numero de ocorrencias
+7->
+sky: numero de ocorrencias
+30->32->43->
+skyrocket: numero de ocorrencias
+21->
+slate: numero de ocorrencias
+72->82->
+slateoh: numero de ocorrencias
+21->
+slatepencil: numero de ocorrencias
+83->
+slates: numero de ocorrencias
+71->72->73->78->81->
+slatesll: numero de ocorrencias
+72->
+sleep: numero de ocorrencias
+30->41->43->83->
+sleepy: numero de ocorrencias
+1->3->24->46->76->
+slightest: numero de ocorrencias
+42->
+slipped: numero de ocorrencias
+9->75->
+slippery: numero de ocorrencias
+5->
+slowly: numero de ocorrencias
+2->11->17->39->44->58->60->65->
+sluggard: numero de ocorrencias
+68->
+small: numero de ocorrencias
+4->6->9->14->22->36->54->
+smaller: numero de ocorrencias
+6->19->22->
+smallest: numero de ocorrencias
+22->24->
+smile: numero de ocorrencias
+13->82->
+smiled: numero de ocorrencias
+49->53->
+smiling: numero de ocorrencias
+8->49->
+smoke: numero de ocorrencias
+33->
+smoking: numero de ocorrencias
+24->28->
+snail: numero de ocorrencias
+65->
+snappishly: numero de ocorrencias
+16->
+snatch: numero de ocorrencias
+20->21->
+sneeze: numero de ocorrencias
+33->84->
+sneezed: numero de ocorrencias
+33->
+sneezes: numero de ocorrencias
+35->
+sneezing: numero de ocorrencias
+32->33->36->76->83->
+snorting: numero de ocorrencias
+36->
+snout: numero de ocorrencias
+36->
+soand: numero de ocorrencias
+74->
+sob: numero de ocorrencias
+29->
+sobbed: numero de ocorrencias
+36->
+sobbing: numero de ocorrencias
+36->60->
+sobs: numero de ocorrencias
+63->70->84->
+soft: numero de ocorrencias
+10->
+softly: numero de ocorrencias
+11->
+soldier: numero de ocorrencias
+71->
+soldiers: numero de ocorrencias
+49->50->51->52->59->
+solemn: numero de ocorrencias
+14->32->
+solemnly: numero de ocorrencias
+13->14->65->66->
+soles: numero de ocorrencias
+67->
+solid: numero de ocorrencias
+3->
+somebody: numero de ocorrencias
+2->8->13->52->56->79->80->
+somersault: numero de ocorrencias
+64->
+son: numero de ocorrencias
+26->
+song: numero de ocorrencias
+35->43->65->67->69->70->
+soon: numero de ocorrencias
+3->5->6->9->12->16->17->18->19->22->36->52->59->72->78->
+sooner: numero de ocorrencias
+4->18->
+soooop: numero de ocorrencias
+70->
+soothing: numero de ocorrencias
+10->
+sorrow: numero de ocorrencias
+60->
+sorrowful: numero de ocorrencias
+11->19->
+sorrows: numero de ocorrencias
+84->
+sorry: numero de ocorrencias
+30->
+sort: numero de ocorrencias
+2->3->4->13->16->18->19->20->21->32->35->36->37->42->54->58->63->77->80->
+sorts: numero de ocorrencias
+8->11->71->
+sound: numero de ocorrencias
+2->21->49->68->
+sounded: numero de ocorrencias
+8->22->23->25->78->
+sounds: numero de ocorrencias
+20->21->56->68->
+soup: numero de ocorrencias
+33->34->35->55->59->70->
+sourand: numero de ocorrencias
+56->
+spades: numero de ocorrencias
+9->
+speak: numero de ocorrencias
+6->10->12->13->27->28->33->35->52->60->61->63->
+speakand: numero de ocorrencias
+53->
+speaker: numero de ocorrencias
+75->
+speaking: numero de ocorrencias
+10->15->25->32->53->
+spectacles: numero de ocorrencias
+72->73->80->
+speech: numero de ocorrencias
+14->17->40->
+speed: numero de ocorrencias
+9->
+spell: numero de ocorrencias
+72->
+spite: numero de ocorrencias
+23->
+splash: numero de ocorrencias
+9->
+splashed: numero de ocorrencias
+83->
+splashing: numero de ocorrencias
+9->48->
+splendidly: numero de ocorrencias
+7->
+spoke: numero de ocorrencias
+12->27->29->35->42->46->50->51->53->54->56->58->60->78->79->82->
+spokefancy: numero de ocorrencias
+3->
+spoken: numero de ocorrencias
+48->
+spoon: numero de ocorrencias
+43->69->
+spot: numero de ocorrencias
+73->
+sprawling: numero de ocorrencias
+77->
+spread: numero de ocorrencias
+8->20->
+spreading: numero de ocorrencias
+81->
+squeaked: numero de ocorrencias
+72->
+squeaking: numero de ocorrencias
+21->83->
+squeeze: numero de ocorrencias
+74->
+squeezed: numero de ocorrencias
+56->
+stairs: numero de ocorrencias
+2->20->27->
+stalk: numero de ocorrencias
+29->
+stamping: numero de ocorrencias
+52->58->
+stand: numero de ocorrencias
+26->42->52->68->72->75->
+standing: numero de ocorrencias
+71->
+starfish: numero de ocorrencias
+36->
+staring: numero de ocorrencias
+32->73->74->
+started: numero de ocorrencias
+1->7->
+startled: numero de ocorrencias
+37->56->
+state: numero de ocorrencias
+25->
+station: numero de ocorrencias
+9->
+stay: numero de ocorrencias
+8->16->21->59->
+stays: numero de ocorrencias
+41->
+steady: numero de ocorrencias
+27->
+steamengine: numero de ocorrencias
+36->
+sternly: numero de ocorrencias
+24->
+stick: numero de ocorrencias
+23->
+sticks: numero de ocorrencias
+3->
+stiff: numero de ocorrencias
+62->
+stigand: numero de ocorrencias
+12->
+stingy: numero de ocorrencias
+56->
+stirring: numero de ocorrencias
+33->35->
+stockings: numero de ocorrencias
+6->
+stole: numero de ocorrencias
+71->72->
+stolen: numero de ocorrencias
+73->
+stood: numero de ocorrencias
+18->31->48->49->50->58->
+stool: numero de ocorrencias
+33->
+stoop: numero de ocorrencias
+19->70->
+stop: numero de ocorrencias
+7->18->22->31->43->80->
+stopped: numero de ocorrencias
+19->49->72->
+stopping: numero de ocorrencias
+2->
+story: numero de ocorrencias
+16->17->30->44->45->55->60->
+straight: numero de ocorrencias
+2->32->
+straightened: numero de ocorrencias
+52->
+straightening: numero de ocorrencias
+36->
+strange: numero de ocorrencias
+8->31->83->84->
+strength: numero de ocorrencias
+26->
+stretched: numero de ocorrencias
+24->28->
+stretching: numero de ocorrencias
+23->62->
+strings: numero de ocorrencias
+75->
+struck: numero de ocorrencias
+7->28->
+stuff: numero de ocorrencias
+27->29->69->82->
+stupid: numero de ocorrencias
+1->6->46->72->
+stupidest: numero de ocorrencias
+47->
+stupidly: numero de ocorrencias
+32->
+subdued: numero de ocorrencias
+29->
+subject: numero de ocorrencias
+10->34->44->63->69->
+subjects: numero de ocorrencias
+62->
+submitted: numero de ocorrencias
+12->
+succeeded: numero de ocorrencias
+29->31->52->
+sudden: numero de ocorrencias
+8->9->10->28->34->
+suddenly: numero de ocorrencias
+1->2->3->13->20->31->38->39->48->64->
+suet: numero de ocorrencias
+26->
+sugar: numero de ocorrencias
+68->
+suit: numero de ocorrencias
+17->29->41->
+sulkily: numero de ocorrencias
+45->74->
+sulky: numero de ocorrencias
+11->31->48->
+summer: numero de ocorrencias
+72->84->
+sun: numero de ocorrencias
+59->83->
+supple: numero de ocorrencias
+26->
+suppose: numero de ocorrencias
+9->18->22->23->27->30->38->39->42->44->62->71->
+suppress: numero de ocorrencias
+77->
+suppressed: numero de ocorrencias
+75->76->83->
+sure: numero de ocorrencias
+6->8->9->12->17->18->20->21->22->26->31->33->36->37->52->69->
+surprise: numero de ocorrencias
+22->58->62->67->77->
+surprised: numero de ocorrencias
+6->9->18->38->50->54->
+swallow: numero de ocorrencias
+28->
+swallowed: numero de ocorrencias
+22->
+swallowing: numero de ocorrencias
+25->
+swam: numero de ocorrencias
+9->10->11->
+sweettempered: numero de ocorrencias
+56->
+swim: numero de ocorrencias
+18->64->80->81->
+swimming: numero de ocorrencias
+10->11->
+t: numero de ocorrencias
+74->
+table: numero de ocorrencias
+3->4->5->6->8->9->18->39->40->47->71->82->
+tail: numero de ocorrencias
+8->10->15->38->39->65->78->
+tails: numero de ocorrencias
+66->
+taken: numero de ocorrencias
+30->41->58->59->
+takes: numero de ocorrencias
+34->64->
+taking: numero de ocorrencias
+19->24->47->70->72->
+tale: numero de ocorrencias
+11->14->15->84->
+talk: numero de ocorrencias
+10->11->17->42->47->48->52->55->56->58->68->74->
+talking: numero de ocorrencias
+3->7->9->11->16->21->29->31->33->34->39->41->49->53->54->72->
+taller: numero de ocorrencias
+28->31->
+tarts: numero de ocorrencias
+71->72->76->82->
+taste: numero de ocorrencias
+4->14->
+tasted: numero de ocorrencias
+30->63->
+tastes: numero de ocorrencias
+70->
+taught: numero de ocorrencias
+4->60->62->
+tea: numero de ocorrencias
+39->40->41->42->43->45->73->74->76->83->
+teaching: numero de ocorrencias
+23->
+teacup: numero de ocorrencias
+72->73->75->
+teacups: numero de ocorrencias
+83->84->
+teanot: numero de ocorrencias
+74->
+teaparty: numero de ocorrencias
+39->47->
+teapot: numero de ocorrencias
+47->
+tears: numero de ocorrencias
+5->6->7->8->9->36->60->63->
+teases: numero de ocorrencias
+35->
+teathings: numero de ocorrencias
+44->
+teatime: numero de ocorrencias
+3->44->
+teatray: numero de ocorrencias
+43->
+teeth: numero de ocorrencias
+37->
+telescope: numero de ocorrencias
+4->5->6->
+telescopes: numero de ocorrencias
+4->
+tell: numero de ocorrencias
+3->7->8->11->13->14->20->21->25->30->33->37->41->44->48->50->56->59->60->63->66->67->68->72->
+telling: numero de ocorrencias
+30->67->
+tells: numero de ocorrencias
+41->44->
+temper: numero de ocorrencias
+16->25->27->55->57->
+terms: numero de ocorrencias
+42->
+terribly: numero de ocorrencias
+23->
+terrier: numero de ocorrencias
+11->
+terror: numero de ocorrencias
+34->
+thank: numero de ocorrencias
+21->60->65->66->
+thanked: numero de ocorrencias
+65->
+thatched: numero de ocorrencias
+39->
+thatit: numero de ocorrencias
+21->
+thatll: numero de ocorrencias
+19->
+thatonly: numero de ocorrencias
+74->
+thats: numero de ocorrencias
+2->3->8->19->21->30->33->34->36->41->44->47->48->51->57->59->63->64->66->68->71->75->78->79->80->81->82->
+theirs: numero de ocorrencias
+14->
+themall: numero de ocorrencias
+71->
+themand: numero de ocorrencias
+11->53->
+themi: numero de ocorrencias
+71->
+thenalways: numero de ocorrencias
+19->
+thenbills: numero de ocorrencias
+21->
+theni: numero de ocorrencias
+43->
+thenshe: numero de ocorrencias
+47->
+theres: numero de ocorrencias
+5->10->19->29->30->31->32->33->39->45->52->53->57->65->72->79->80->81->
+theyd: numero de ocorrencias
+18->22->45->71->
+theyll: numero de ocorrencias
+2->3->21->
+theyre: numero de ocorrencias
+30->32->36->37->49->52->63->66->71->80->
+theyve: numero de ocorrencias
+40->
+theyyouve: numero de ocorrencias
+66->
+thimble: numero de ocorrencias
+14->
+thinand: numero de ocorrencias
+74->
+thing: numero de ocorrencias
+5->9->10->12->13->14->18->19->21->22->23->31->35->36->39->40->41->44->45->47->48->55->56->59->63->69->78->80->
+things: numero de ocorrencias
+2->4->6->7->8->9->10->11->26->33->38->44->47->48->53->54->56->57->64->72->74->
+thingseverything: numero de ocorrencias
+46->
+thingsi: numero de ocorrencias
+11->
+think: numero de ocorrencias
+1->2->3->4->7->10->14->16->17->18->21->22->24->25->26->27->33->34->35->36->38->40->41->42->45->46->47->51->53->55->57->58->69->73->78->82->
+thinking: numero de ocorrencias
+8->16->23->30->36->45->56->58->60->83->
+thirteen: numero de ocorrencias
+8->
+thistle: numero de ocorrencias
+23->
+thoroughly: numero de ocorrencias
+35->66->
+thought: numero de ocorrencias
+1->2->3->4->5->6->7->9->10->11->12->13->14->19->20->21->22->23->25->28->29->31->32->34->36->37->38->39->40->41->47->48->49->52->53->54->55->56->58->59->60->63->66->68->71->72->74->75->76->78->
+thoughtfully: numero de ocorrencias
+28->43->66->68->
+thoughts: numero de ocorrencias
+67->74->
+thousand: numero de ocorrencias
+2->20->
+threelegged: numero de ocorrencias
+3->33->
+threw: numero de ocorrencias
+35->49->
+throat: numero de ocorrencias
+17->63->
+throne: numero de ocorrencias
+71->
+throw: numero de ocorrencias
+11->64->65->
+throwing: numero de ocorrencias
+34->82->
+thrown: numero de ocorrencias
+66->
+thump: numero de ocorrencias
+3->
+thunder: numero de ocorrencias
+51->
+thunderstorm: numero de ocorrencias
+58->
+tide: numero de ocorrencias
+68->
+tidy: numero de ocorrencias
+18->
+tie: numero de ocorrencias
+21->
+tied: numero de ocorrencias
+75->
+tight: numero de ocorrencias
+36->
+till: numero de ocorrencias
+8->20->21->23->29->31->32->39->47->53->59->60->67->75->76->80->83->
+tillie: numero de ocorrencias
+44->
+time: numero de ocorrencias
+1->2->3->4->7->9->10->11->13->17->18->21->23->24->28->30->32->36->39->40->41->42->43->44->46->47->52->54->55->56->58->62->64->65->67->71->74->77->78->82->83->
+times: numero de ocorrencias
+8->20->24->71->
+timid: numero de ocorrencias
+7->51->68->
+timidly: numero de ocorrencias
+27->32->33->37->39->48->50->64->67->
+tinkling: numero de ocorrencias
+84->
+tiny: numero de ocorrencias
+3->18->83->
+tipped: numero de ocorrencias
+77->
+tiptoe: numero de ocorrencias
+24->51->
+tired: numero de ocorrencias
+1->5->8->10->18->23->44->
+tis: numero de ocorrencias
+56->68->
+tittered: numero de ocorrencias
+13->
+toast: numero de ocorrencias
+5->
+today: numero de ocorrencias
+7->9->38->47->
+toes: numero de ocorrencias
+65->68->69->
+toffee: numero de ocorrencias
+4->
+told: numero de ocorrencias
+33->41->67->80->83->
+tomorrow: numero de ocorrencias
+32->
+tone: numero de ocorrencias
+10->11->13->17->18->19->23->28->29->30->31->32->33->34->39->44->45->48->50->51->53->55->57->60->61->63->66->67->69->77->78->82->
+tones: numero de ocorrencias
+68->83->
+tongue: numero de ocorrencias
+16->23->61->82->
+tonight: numero de ocorrencias
+3->
+took: numero de ocorrencias
+1->2->7->14->16->18->24->25->26->28->34->41->45->46->47->58->61->69->72->
+tops: numero de ocorrencias
+29->
+tortoise: numero de ocorrencias
+60->
+toss: numero de ocorrencias
+83->
+tossing: numero de ocorrencias
+35->42->49->
+toto: numero de ocorrencias
+79->
+touch: numero de ocorrencias
+23->
+tougher: numero de ocorrencias
+26->
+toys: numero de ocorrencias
+8->
+trampled: numero de ocorrencias
+23->
+treacle: numero de ocorrencias
+45->46->76->
+treaclewell: numero de ocorrencias
+45->
+treaclewelleh: numero de ocorrencias
+46->
+treading: numero de ocorrencias
+65->
+treat: numero de ocorrencias
+69->
+treated: numero de ocorrencias
+37->
+tree: numero de ocorrencias
+30->37->38->39->54->
+trees: numero de ocorrencias
+23->29->31->32->47->83->
+tremble: numero de ocorrencias
+58->
+trembled: numero de ocorrencias
+20->74->
+trembling: numero de ocorrencias
+10->11->17->69->74->79->
+tremulous: numero de ocorrencias
+68->
+trial: numero de ocorrencias
+15->70->71->77->78->
+trials: numero de ocorrencias
+70->71->72->75->
+trickling: numero de ocorrencias
+82->
+tricks: numero de ocorrencias
+23->
+tried: numero de ocorrencias
+2->3->4->5->19->20->23->26->29->37->45->57->63->83->
+trims: numero de ocorrencias
+68->
+triumphantly: numero de ocorrencias
+45->82->
+trot: numero de ocorrencias
+36->
+trotting: numero de ocorrencias
+7->17->
+trouble: numero de ocorrencias
+1->6->30->57->58->81->
+true: numero de ocorrencias
+2->57->80->82->
+trumpet: numero de ocorrencias
+71->72->
+trusts: numero de ocorrencias
+81->
+truth: numero de ocorrencias
+3->
+truthful: numero de ocorrencias
+30->
+try: numero de ocorrencias
+8->13->16->28->57->65->68->69->81->
+trying: numero de ocorrencias
+3->5->9->10->18->23->28->30->34->47->50->54->78->
+tucked: numero de ocorrencias
+52->54->55->
+tuliproots: numero de ocorrencias
+48->
+tumbled: numero de ocorrencias
+23->
+tumbling: numero de ocorrencias
+2->51->
+tunnel: numero de ocorrencias
+2->
+tureen: numero de ocorrencias
+70->
+turkey: numero de ocorrencias
+4->
+turn: numero de ocorrencias
+25->34->36->50->54->62->64->65->69->77->
+turned: numero de ocorrencias
+3->11->18->25->26->38->45->50->62->73->77->79->
+turning: numero de ocorrencias
+12->14->22->41->42->49->50->73->78->81->82->
+turns: numero de ocorrencias
+52->54->68->
+turnup: numero de ocorrencias
+36->
+turtle: numero de ocorrencias
+59->60->61->62->63->64->65->66->67->68->69->70->84->
+turtles: numero de ocorrencias
+55->64->65->84->
+turtlewe: numero de ocorrencias
+60->
+tut: numero de ocorrencias
+56->
+twelfth: numero de ocorrencias
+63->
+twentieth: numero de ocorrencias
+82->
+twentyfour: numero de ocorrencias
+34->35->
+twice: numero de ocorrencias
+1->28->47->64->
+twinkle: numero de ocorrencias
+43->
+twinkled: numero de ocorrencias
+74->
+twinkling: numero de ocorrencias
+43->74->
+twist: numero de ocorrencias
+36->52->
+ugh: numero de ocorrencias
+12->30->
+uglification: numero de ocorrencias
+62->
+uglify: numero de ocorrencias
+62->
+uglifying: numero de ocorrencias
+62->
+ugly: numero de ocorrencias
+36->56->
+unable: numero de ocorrencias
+78->
+uncivil: numero de ocorrencias
+32->
+uncomfortable: numero de ocorrencias
+11->19->39->54->
+uncomfortably: numero de ocorrencias
+56->
+uncommon: numero de ocorrencias
+68->
+uncommonly: numero de ocorrencias
+26->
+uncorked: numero de ocorrencias
+18->
+underneath: numero de ocorrencias
+28->
+understand: numero de ocorrencias
+10->11->24->42->46->57->
+understood: numero de ocorrencias
+75->
+undertone: numero de ocorrencias
+77->78->
+undo: numero de ocorrencias
+16->
+undoing: num
