@@ -9,6 +9,7 @@ public class Aplicacao {
     int nPagina = 1;
     int paginamax = 0; 
     int countindex = 0;
+    public boolean continuar = true;
     
     ArrayList<String> listamaior = new ArrayList<String>();
     ListaOrdenadaDePalavras listaOrdenada = new ListaOrdenadaDePalavras();
@@ -21,8 +22,12 @@ public class Aplicacao {
     
     String l;
 
-    public Aplicacao(){
-        arquivo.open();
+    public Aplicacao() throws IOException{
+        System.out.println("Informe o path do arquivo de texto: ");
+        Scanner scaneador = new Scanner(System.in);
+        String path = scaneador.nextLine();
+        arquivo.open(path);
+        
     
         do  // laco que passa em cada linha do arquivo
         {
@@ -78,9 +83,9 @@ public class Aplicacao {
 
     public void executa(){
         Scanner scanner = new Scanner(System.in);
-        boolean continuar = true;
+        
 
-        while (continuar) {
+        while (true) {
             System.out.println("\n ------------------ MENU ------------------\n");
             System.out.println("1. Exibir todo o índice remissivo;");
             System.out.println("2. Exibir o percentual de stopwords do texto;");
@@ -107,17 +112,18 @@ public class Aplicacao {
                     pesquisarPalavras();
                     break;
                 case 5:
-                    System.out.println("Pagina com maior número de palavras indexadas: "+paginamax+" com "+countindex+" palavras.");
+                    System.out.println("Pagina com maior número de palavras indexadas: "+paginamax+" com "+(countindex-1)+" palavras.");
                     break;
                 case 6:
                     System.out.println("Programa encerrado.");
-                    continuar = false;
+                    scanner.close();
+                    System.exit(0);
                     break;
                 default:
                     System.out.println("Opção inválida! Tente novamente.");
             }
         }
-        scanner.close();
+        
     }
 
     private void exibirIndiceRemissivo(){
@@ -142,6 +148,7 @@ public class Aplicacao {
         String palavra = scanner.nextLine();
         listaOrdenada.ocorrenciasPalavra(palavra);
     }
+
 }
 
 

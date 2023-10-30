@@ -16,8 +16,8 @@ public class ArquivoTexto {
     /*
     * Abre o arquivo que contém o texto
     */
-    public void open(){
-        Path path1 = Paths.get("alice.txt");
+    public void open(String nomeArquivo) throws IOException{
+        Path path1 = Paths.get(nomeArquivo);
         try {
            reader = Files.newBufferedReader(path1, Charset.defaultCharset());
         } catch (IOException e) {
@@ -30,7 +30,7 @@ public class ArquivoTexto {
      * retorna uma string vazia.
      * @return a proxima linha do arquivo.
      */
-    public String getNextLine()  {
+    public String getNextLine() throws IOException {
         try {
             String line = null;
             if( (line = reader.readLine()) != null) 
@@ -44,7 +44,7 @@ public class ArquivoTexto {
     /**
      * Fecha o arquivo.
      */
-    public void close() {
+    public void close() throws IOException {
         try {
             reader.close();
         } catch (IOException e) {
