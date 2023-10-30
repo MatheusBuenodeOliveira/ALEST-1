@@ -1,3 +1,6 @@
+
+//COMPONENTES DO GRUPO QUE REALIZARAM O TRABALHO: JOÃO MIGUEL MEIER, JOÃO PEDRO KRIGER, MATHEUS DE OLIVEIRA
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
